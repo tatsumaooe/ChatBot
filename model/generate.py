@@ -1,4 +1,6 @@
 
+import os
+
 import torch
 
 from pathlib import Path
@@ -11,7 +13,10 @@ from model.bpe_tokenizer import BPETokenizer
 # Configuration
 # -------------------------
 
-CHECKPOINT_PATH = Path("checkpoints/mygpt.pt")
+# Set CHATBOT_CHECKPOINT to use a different model file
+CHECKPOINT_PATH = Path(
+    os.environ.get("CHATBOT_CHECKPOINT", "checkpoints/mygpt.pt")
+)
 
 MAX_NEW_TOKENS = 50
 TEMPERATURE = 0.8

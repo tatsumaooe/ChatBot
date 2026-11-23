@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <title>ChatBot</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>😎</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+
+    <header class="header">
+      <div class="avatar" aria-hidden="true">😎</div>
+      <div class="identity">
+        <h1 class="name">ChatBot</h1>
+        <p class="status"><span class="dot" aria-hidden="true"></span>online · here to vibe</p>
+      </div>
+      <button class="new-chat" id="new-chat" type="button" title="Start a new chat">New chat</button>
+    </header>
+
+    <main class="messages" id="messages" aria-live="polite" aria-label="Conversation"></main>
+
+    <div class="typing" id="typing" hidden aria-label="ChatBot is typing">
+      <div class="avatar small" aria-hidden="true">😎</div>
+      <div class="bubble bot typing-bubble"><span></span><span></span><span></span></div>
+    </div>
+
+    <footer class="composer">
+      <div class="chips" id="chips" aria-label="Quick messages"></div>
+
+      <form class="input-row" id="form" autocomplete="off">
+        <label class="sr-only" for="input">Message</label>
+        <textarea id="input" rows="1" maxlength="500" placeholder="Say something... (Enter to send)"></textarea>
+        <button class="send" id="send" type="submit" aria-label="Send">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+            <path d="M3.4 20.4 21 12 3.4 3.6 3.4 10l12.6 2-12.6 2z" fill="currentColor"/>
+          </svg>
+        </button>
+      </form>
+    </footer>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

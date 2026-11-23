@@ -22,7 +22,7 @@ text = "\n\n".join(
 # 2. Train tokenizer
 tokenizer = BPETokenizer()
 
-tokenizer.train(text, num_merges=300)
+tokenizer.train(text, num_merges=500)
 
 tokenizer.build_vocabulary_ids()
 

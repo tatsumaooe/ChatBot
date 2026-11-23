@@ -1,15 +1,19 @@
 
+import sys
+
 import torch
 
 from model.generate import model, tokenizer, device, checkpoint
+from model.safety import safety_reply
+
 
 
 # -------------------------
 # Configuration
 # -------------------------
 
-MAX_REPLY_TOKENS = 60
-TEMPERATURE = 0.7
+MAX_REPLY_TOKENS = 120
+TEMPERATURE = 0.5
 TOP_K = 10
 
 # Previous exchanges kept as context for the next reply
@@ -70,10 +74,43 @@ def reply(prompt):
 
 
 # -------------------------
+# Respond to one message
+# -------------------------
+
+def respond(user_message, history=()):
+    """Return the bot's reply.
+
+    history: previous (user, bot) message pairs, oldest first.
+    Used by both the terminal chat and the web server.
+    """
+
+    # Newlines would break the "User: ... / Bot: ..." format
+    user_message = " ".join(user_message.split())
+
+    # Serious messages get a fixed, caring reply, never a joke
+    answer = safety_reply(user_message)
+
+    if answer is not None:
+        return answer
+
+    context = "".join(
+        f"User: {user}\nBot: {bot}\n"
+        for user, bot in list(history)[-HISTORY_TURNS:]
+    )
+
+    return reply(f"{context}User: {user_message}\nBot:")
+
+
+# -------------------------
 # Chat loop
 # -------------------------
 
 def main():
+
+    # Replies contain emoji; make sure Windows terminals and pipes
+    # don't crash trying to print them in a legacy encoding
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stdin.reconfigure(encoding="utf-8")
 
     print("\nChat with your bot! Type 'quit' to exit.\n")
 
@@ -93,17 +130,11 @@ def main():
         if user_message.lower() in {"quit", "exit"}:
             break
 
-        context = "".join(history[-HISTORY_TURNS:])
-
-        prompt = f"{context}User: {user_message}\nBot:"
-
-        answer = reply(prompt)
+        answer = respond(user_message, history)
 
         print(f"Bot: {answer}")
 
-        history.append(
-            f"User: {user_message}\nBot: {answer}\n"
-        )
+        history.append((user_message, answer))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,6529 @@
+[
+  {
+    "term": "100%",
+    "aliases": [
+      "hundo",
+      "100 percent"
+    ],
+    "meaning": "completing absolutely everything in a game",
+    "example": "We 100 percented the zoo: every animal, every snack stand, every gift shop.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "1v1",
+    "aliases": [
+      "one v one"
+    ],
+    "meaning": "one versus one; a head-to-head match",
+    "example": "Let's settle who does the dishes with a 1v1 of rock-paper-scissors.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "ace",
+    "aliases": [],
+    "meaning": "when one player beats everyone on the other team in a round",
+    "example": "I got an ace in family trivia: five questions, five right answers.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "achievement unlocked",
+    "aliases": [],
+    "meaning": "a jokey way to celebrate a small accomplishment",
+    "example": "Folded all the laundry without losing a single sock. Achievement unlocked!",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "afk",
+    "aliases": [],
+    "meaning": "away from keyboard; not at the computer right now",
+    "example": "Sorry, I was afk; the dog needed an emergency belly rub.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "aggro",
+    "aliases": [],
+    "meaning": "an enemy's attention, so it targets you",
+    "example": "I pulled aggro from every goose in the park the second I opened the bread bag.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "backseat gaming",
+    "aliases": [
+      "backseating",
+      "backseat gamer"
+    ],
+    "meaning": "giving unwanted advice while watching someone else play",
+    "example": "My little brother is backseat gaming again: 'Jump! No, the OTHER jump!'",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "boss fight",
+    "aliases": [
+      "boss battle"
+    ],
+    "meaning": "a tough showdown with a big enemy, usually at a level's end",
+    "example": "Getting my little brother into the bathtub is a full boss fight.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "buff",
+    "aliases": [
+      "buffed"
+    ],
+    "meaning": "to make something stronger, or a boost to abilities",
+    "example": "The update buffed the farm chickens, and now they rule the barnyard.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "button mashing",
+    "aliases": [
+      "button mash",
+      "button masher"
+    ],
+    "meaning": "pressing buttons wildly and hoping for the best",
+    "example": "I won the fighting game with button mashing and pure confidence.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "camping",
+    "aliases": [
+      "camper",
+      "camp"
+    ],
+    "meaning": "waiting in one spot for a long time to catch opponents",
+    "example": "My cat is camping by the fridge, waiting for anyone to open it.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "carry",
+    "aliases": [
+      "carried",
+      "carrying"
+    ],
+    "meaning": "to do most of the work and lead your team to a win",
+    "example": "My dog carried our team at the agility contest; I mostly clapped.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "cheat code",
+    "aliases": [
+      "cheat codes"
+    ],
+    "meaning": "a secret input that gives a bonus, or a handy life shortcut",
+    "example": "Saying please to the lunch lady is a cheat code for extra fries.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "cheese",
+    "aliases": [
+      "cheesing",
+      "cheesed"
+    ],
+    "meaning": "beating something hard with a cheap, sneaky trick",
+    "example": "We cheesed the escape room by asking for a hint every single minute.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "clip it",
+    "aliases": [
+      "clip that"
+    ],
+    "meaning": "a request to save that awesome moment as a video clip",
+    "example": "Did you see me catch the falling cup without looking? Clip it!",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "clutch",
+    "aliases": [],
+    "meaning": "pulling off a success at the last possible moment",
+    "example": "Grabbing the last slice right before the pizza box closed was so clutch.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "cracked",
+    "aliases": [],
+    "meaning": "incredibly skilled at something",
+    "example": "My grandpa is cracked at crossword puzzles; he finishes them in pen.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "DLC",
+    "aliases": [],
+    "meaning": "downloadable content; extra stuff added to a game later",
+    "example": "Bonus cookies after dinner are basically DLC for the meal.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "DPS",
+    "aliases": [],
+    "meaning": "damage per second, or the player whose job is dealing damage",
+    "example": "In our pillow fight, my sister is the DPS and I'm the snack carrier.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "easter egg",
+    "aliases": [],
+    "meaning": "a hidden secret or joke tucked inside a game or movie",
+    "example": "We found an easter egg in the game: a tiny duck wearing sunglasses.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "esports",
+    "aliases": [
+      "e-sports"
+    ],
+    "meaning": "competitive video gaming, often played professionally",
+    "example": "My dream is to become an esports star and eat cereal at every meal.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "ez",
+    "aliases": [],
+    "meaning": "easy; said when something was no trouble at all",
+    "example": "Tied both shoes on the first try. ez.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "F2P",
+    "aliases": [
+      "free to play",
+      "free-to-play"
+    ],
+    "meaning": "free to play; a game that costs nothing to start",
+    "example": "Tag is the original F2P game: no download, no batteries.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "farm",
+    "aliases": [
+      "farming"
+    ],
+    "meaning": "repeating an action to collect lots of something",
+    "example": "I'm farming compliments by wearing my sparkly sweater every single day.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "final boss",
+    "aliases": [],
+    "meaning": "the toughest and last challenge of all",
+    "example": "After homework and chores, the final boss is folding the fitted sheet.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "gj",
+    "aliases": [],
+    "meaning": "good job",
+    "example": "gj on the science fair volcano; the ceiling will recover.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "glhf",
+    "aliases": [
+      "gl hf"
+    ],
+    "meaning": "good luck, have fun; a friendly greeting before a match",
+    "example": "glhf everyone, and may your snacks stay within arm's reach.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "glitch",
+    "aliases": [
+      "glitchy"
+    ],
+    "meaning": "a small error that makes something act weird",
+    "example": "A glitch made my character walk on the ceiling, and honestly, I liked it.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "gratz",
+    "aliases": [
+      "grats",
+      "gz"
+    ],
+    "meaning": "congratulations",
+    "example": "gratz on reaching level 50! Now please come eat dinner.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "grind",
+    "aliases": [
+      "grinding"
+    ],
+    "meaning": "doing the same task over and over to make progress",
+    "example": "I spent all weekend on the grind collecting virtual mushrooms.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "HP",
+    "aliases": [],
+    "meaning": "health points; how much energy a character has left",
+    "example": "After that long hike my HP is at one. Please send snacks.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "lag",
+    "aliases": [
+      "laggy"
+    ],
+    "meaning": "a delay that makes a game or video stutter",
+    "example": "Sorry for the slow answer; my brain has lag before breakfast.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "level up",
+    "aliases": [
+      "leveled up",
+      "lvl up",
+      "levelling up"
+    ],
+    "meaning": "to get better, like a game character gaining a level",
+    "example": "I made toast without burning it. I have officially leveled up.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "lobby",
+    "aliases": [],
+    "meaning": "the waiting area before a game match starts",
+    "example": "We waited in the lobby so long that I set up a snack picnic.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "loot",
+    "aliases": [
+      "drop",
+      "drops"
+    ],
+    "meaning": "items or rewards you collect in a game",
+    "example": "The best loot from the birthday party was a giant tub of glitter.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "main",
+    "aliases": [
+      "maining"
+    ],
+    "meaning": "the character you play most and know best",
+    "example": "My main is the tiny chef who throws cream pies.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "meta",
+    "aliases": [
+      "the meta"
+    ],
+    "meaning": "the most popular and effective strategy right now",
+    "example": "In our house, the meta for getting dessert is cleaning your room first.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "mod",
+    "aliases": [
+      "mods",
+      "modded"
+    ],
+    "meaning": "a fan-made change to a game, or a chat moderator",
+    "example": "Someone made a mod that turns every monster into a dancing banana.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "MVP",
+    "aliases": [],
+    "meaning": "most valuable player; the star of the team",
+    "example": "The real MVP is whoever brought orange slices to the soccer game.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "NG+",
+    "aliases": [
+      "new game plus"
+    ],
+    "meaning": "new game plus; replaying a game while keeping your upgrades",
+    "example": "My second year of piano feels like NG+: same songs, way harder.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "noob",
+    "aliases": [
+      "n00b",
+      "newb",
+      "newbie",
+      "nub"
+    ],
+    "meaning": "a beginner who is still learning",
+    "example": "I'm a total noob at bowling, but I rolled a strike by accident.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "nt",
+    "aliases": [],
+    "meaning": "nice try; encouragement after a close miss",
+    "example": "nt! You almost made that basket from across the whole gym.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "one-shot",
+    "aliases": [
+      "one shot",
+      "oneshot"
+    ],
+    "meaning": "to beat something in a single hit",
+    "example": "That joke one-shot the whole class; nobody could stop giggling.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "OP",
+    "aliases": [],
+    "meaning": "overpowered in games; online it can also mean original poster",
+    "example": "This sword is so OP the dragon just packed up and went home.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "P2W",
+    "aliases": [
+      "pay to win",
+      "pay-to-win"
+    ],
+    "meaning": "pay to win; a game where spending money gives you an edge",
+    "example": "My brother says buying the fanciest kite at the kite festival is totally P2W.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "PB",
+    "aliases": [],
+    "meaning": "personal best; your own best score or time",
+    "example": "New PB: I got ready for school in four minutes flat.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "poggers",
+    "aliases": [
+      "pog",
+      "pogchamp"
+    ],
+    "meaning": "awesome; a shout of excitement",
+    "example": "They're serving waffles at school today? Poggers!",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "power-up",
+    "aliases": [
+      "powerup",
+      "power up"
+    ],
+    "meaning": "an item that gives a temporary boost",
+    "example": "This mug of hot chocolate is my power-up for the snowball fight.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "pro gamer move",
+    "aliases": [],
+    "meaning": "a clever trick, usually said jokingly",
+    "example": "Pro gamer move: wear pajamas under your clothes so you're always ready for bed.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "PVP",
+    "aliases": [
+      "pve"
+    ],
+    "meaning": "player versus player; competing against real people (pve means versus the game)",
+    "example": "Board game night turns into intense PVP the moment Grandpa sits down.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "pwned",
+    "aliases": [
+      "owned",
+      "pwn",
+      "pwnage",
+      "pwnd"
+    ],
+    "meaning": "beaten completely; a famous typo of 'owned' that stuck around",
+    "example": "Grandma pwned the whole family at trivia night and didn't even look up.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "queue",
+    "aliases": [
+      "q",
+      "queue up"
+    ],
+    "meaning": "to wait in line for a game match",
+    "example": "Let's queue up after dinner; the dishes come first.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "rage quit",
+    "aliases": [
+      "ragequit",
+      "rage quitting"
+    ],
+    "meaning": "quitting a game in a huff out of frustration",
+    "example": "I rage quit the puzzle game, then came back five minutes later for one more try.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "rekt",
+    "aliases": [
+      "wrecked"
+    ],
+    "meaning": "totally beaten, in a funny way",
+    "example": "I challenged my little sister to a dance-off and got rekt.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "respawn",
+    "aliases": [
+      "respawned"
+    ],
+    "meaning": "to come back into a game after being knocked out",
+    "example": "I fell off the ledge, but I'll respawn in three seconds, wiser and snackier.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "RNG",
+    "aliases": [],
+    "meaning": "random number generator; pure luck or chance",
+    "example": "Whether the cafeteria has pizza today is all RNG.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "skin",
+    "aliases": [
+      "skins"
+    ],
+    "meaning": "a cosmetic outfit that changes how a character looks",
+    "example": "My hamster's new skin is a tiny hand-knitted sweater.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "tank",
+    "aliases": [],
+    "meaning": "a sturdy character who protects the team by taking the hits",
+    "example": "In dodgeball, my big brother is our tank; he catches everything.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "throw",
+    "aliases": [
+      "throwing",
+      "threw"
+    ],
+    "meaning": "to mess up a game you were winning",
+    "example": "We were winning the spelling bee until I threw it on the word 'banana'.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "tilted",
+    "aliases": [
+      "tilt",
+      "on tilt"
+    ],
+    "meaning": "so frustrated that you start playing worse",
+    "example": "After losing three rounds of Go Fish, my uncle was fully tilted.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "wp",
+    "aliases": [],
+    "meaning": "well played",
+    "example": "wp! You beat me at checkers with just one checker left.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "XP",
+    "aliases": [
+      "exp"
+    ],
+    "meaning": "experience points, which you earn to level up",
+    "example": "Unloading the dishwasher should be worth at least 50 XP.",
+    "category": "gaming",
+    "region": "global"
+  },
+  {
+    "term": "41",
+    "aliases": [
+      "forty one"
+    ],
+    "meaning": "a random meme number used as an inside joke with no real meaning",
+    "example": "How old is the tree? 41. How many fries left? 41. Everything is 41.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "6-7",
+    "aliases": [
+      "67",
+      "six seven",
+      "6 7",
+      "six-seven"
+    ],
+    "meaning": "a nonsense meme phrase shouted for fun, often with a hand-juggling motion",
+    "example": "Teacher: turn to page 67. The entire class: SIX SEVEN!",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "and I oop",
+    "aliases": [
+      "i oop"
+    ],
+    "meaning": "a funny reaction to something surprising or awkward",
+    "example": "I waved back at someone who was waving at the person behind me, and I oop.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "arc",
+    "aliases": [
+      "villain arc",
+      "redemption arc",
+      "character arc"
+    ],
+    "meaning": "a big chapter of personal change, like in a story",
+    "example": "After burning toast for years, Dad is in his chef redemption arc.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "ate",
+    "aliases": [
+      "ate that",
+      "ate and left no crumbs",
+      "left no crumbs",
+      "eating"
+    ],
+    "meaning": "did something amazingly well",
+    "example": "Grandma ate that karaoke song and left no crumbs.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "aura",
+    "aliases": [],
+    "meaning": "the cool, confident energy someone gives off",
+    "example": "Walking in with sunglasses and a smoothie gave him serious aura.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "aura farming",
+    "aliases": [
+      "farming aura",
+      "aura farm"
+    ],
+    "meaning": "acting extra cool on purpose to look impressive",
+    "example": "He's leaning on the bike rack staring at the sunset. Total aura farming.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "aura points",
+    "aliases": [
+      "+1000 aura",
+      "minus aura",
+      "-1000 aura"
+    ],
+    "meaning": "imaginary points you gain for cool moves and lose for awkward ones",
+    "example": "Tripping up the stage stairs cost me a thousand aura points.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "banger",
+    "aliases": [],
+    "meaning": "a super catchy, great song",
+    "example": "The ice cream truck song is an underrated banger.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "bed rot",
+    "aliases": [
+      "bed rotting"
+    ],
+    "meaning": "spending a whole day lounging in bed on purpose",
+    "example": "Sunday plans: bed rot, snacks, and absolutely zero socks.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "beige flag",
+    "aliases": [],
+    "meaning": "a quirky habit that is not good or bad, just odd",
+    "example": "He names all his houseplants after famous chefs. Beige flag.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "bestie",
+    "aliases": [
+      "besties"
+    ],
+    "meaning": "best friend, or a friendly way to address anyone",
+    "example": "Bestie, you have spinach in your teeth, and I say that with love.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "bet",
+    "aliases": [],
+    "meaning": "okay, sounds good, it's a deal",
+    "example": "Pizza for dinner? Bet, I'll grab the plates.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "big mood",
+    "aliases": [
+      "mood"
+    ],
+    "meaning": "something that perfectly matches how you feel",
+    "example": "That sloth napping on a branch all day? Big mood.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "big yikes",
+    "aliases": [],
+    "meaning": "that's really awkward or embarrassing",
+    "example": "Showed up in pajamas on the one day that wasn't pajama day. Big yikes.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "bombastic side eye",
+    "aliases": [
+      "side eye",
+      "side-eye"
+    ],
+    "meaning": "a dramatic sideways look of suspicion",
+    "example": "When Mom called broccoli tree candy, I gave her the bombastic side eye.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "brain rot",
+    "aliases": [
+      "brainrot"
+    ],
+    "meaning": "silly, low-effort online content, or the foggy feeling from too much of it",
+    "example": "Three hours of cat memes gave me brain rot; I just meowed at the mail carrier.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "bruh",
+    "aliases": [
+      "bruhh",
+      "bruhhh"
+    ],
+    "meaning": "a word of disbelief, like seriously?",
+    "example": "Bruh, the vending machine took my dollar and gave me nothing but silence.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "bugging",
+    "aliases": [
+      "buggin",
+      "you're bugging"
+    ],
+    "meaning": "acting weird or overreacting",
+    "example": "You think the toaster is mad at you? You're bugging.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "built different",
+    "aliases": [],
+    "meaning": "unusually strong, talented, or tough",
+    "example": "My grandma does push-ups at eighty. She's built different.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "bussin",
+    "aliases": [
+      "bussin'",
+      "bussing",
+      "bussin bussin"
+    ],
+    "meaning": "really, really good, usually about food",
+    "example": "These tacos are bussin; I want to write them a thank-you note.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "canon event",
+    "aliases": [],
+    "meaning": "an experience everyone is destined to go through",
+    "example": "Forgetting your lunch on field trip day is a canon event.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "cap",
+    "aliases": [
+      "capping",
+      "that's cap",
+      "stop the cap"
+    ],
+    "meaning": "a lie or a big exaggeration",
+    "example": "You ran a mile in two minutes? That's cap and you know it.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "caught in 4K",
+    "aliases": [
+      "4k"
+    ],
+    "meaning": "caught red-handed with crystal-clear proof",
+    "example": "Dad swore he didn't eat the cookies, but the doorbell camera caught him in 4K.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "CEO of",
+    "aliases": [],
+    "meaning": "the ultimate example of something",
+    "example": "My dog is the CEO of stealing socks.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "chat",
+    "aliases": [
+      "chat is this real"
+    ],
+    "meaning": "a way of talking to an imaginary audience, like a streamer does",
+    "example": "Chat, I just found a fry in my hoodie pocket from last week.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "cheugy",
+    "aliases": [],
+    "meaning": "out of date, or trying a bit too hard to be trendy",
+    "example": "My dad's motivational kitchen sign is a little cheugy, but we love it.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "chill guy",
+    "aliases": [
+      "just a chill guy"
+    ],
+    "meaning": "someone super relaxed who doesn't let anything stress them out",
+    "example": "The bus is late and it's raining, but I'm just a chill guy.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "chronically online",
+    "aliases": [
+      "terminally online"
+    ],
+    "meaning": "spending so much time online that it really shows",
+    "example": "He answered a real question with a meme sound effect. Chronically online.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "clapback",
+    "aliases": [
+      "clap back"
+    ],
+    "meaning": "a quick, clever comeback",
+    "example": "He called my drawing a blob; my clapback was that it's abstract art.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "clock it",
+    "aliases": [
+      "clocked",
+      "clock that"
+    ],
+    "meaning": "to notice or figure something out",
+    "example": "I clocked that you hid the TV remote under the couch cushion.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "coded",
+    "aliases": [
+      "-coded"
+    ],
+    "meaning": "having the vibe or traits of something",
+    "example": "Wearing three cozy sweaters at once is very grandma-coded.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "cooked",
+    "aliases": [
+      "we're cooked",
+      "im cooked",
+      "i'm cooked"
+    ],
+    "meaning": "in big trouble or totally done for",
+    "example": "Forgot the test was today and my pencil just snapped. I'm cooked.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "cooking",
+    "aliases": [
+      "he's cooking",
+      "she's cooking"
+    ],
+    "meaning": "doing something really well, on a hot streak",
+    "example": "Our goalie is cooking today; not even a breeze gets past him.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "core",
+    "aliases": [
+      "-core",
+      "cottagecore",
+      "goblincore"
+    ],
+    "meaning": "a word ending that names an aesthetic or style",
+    "example": "My new look is snackcore: every pocket holds a granola bar.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "cortisol spike",
+    "aliases": [
+      "high cortisol"
+    ],
+    "meaning": "a sudden jolt of stress",
+    "example": "Seeing one percent battery with no charger gave me a cortisol spike.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "couldn't be me",
+    "aliases": [
+      "could never be me"
+    ],
+    "meaning": "I would never do that",
+    "example": "Waking up at 5 a.m. on a Saturday? Couldn't be me.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "crash out",
+    "aliases": [
+      "crashout",
+      "crashing out",
+      "crashed out"
+    ],
+    "meaning": "to totally lose your cool over something",
+    "example": "I almost crashed out when the Wi-Fi died on the final level.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "crine",
+    "aliases": [
+      "son im crine",
+      "i'm crine",
+      "im crine"
+    ],
+    "meaning": "crying from laughing so much",
+    "example": "The cat chased the laser right into the couch. I'm crine.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "cringe",
+    "aliases": [
+      "cringey",
+      "cringy"
+    ],
+    "meaning": "awkward or embarrassing to watch",
+    "example": "Dad's dance moves at the wedding were cringe, but also kind of iconic.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "dead",
+    "aliases": [
+      "i'm dead",
+      "im dead",
+      "ded",
+      "deceased"
+    ],
+    "meaning": "laughing so hard you can't handle it",
+    "example": "The baby goat hopped onto the sheep's back and I'm dead.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "delulu",
+    "aliases": [
+      "delulu is the solulu"
+    ],
+    "meaning": "playfully unrealistic in your hopes or beliefs",
+    "example": "I'm delulu enough to think I'll win the spelling bee without studying.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "doomscrolling",
+    "aliases": [
+      "doomscroll"
+    ],
+    "meaning": "endlessly scrolling your phone even though you should stop",
+    "example": "I was doomscrolling so long my phone asked if I was still alive.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "drip",
+    "aliases": [
+      "dripped out"
+    ],
+    "meaning": "stylish clothes or a cool look",
+    "example": "Grandpa's Hawaiian shirt and sandals combo has serious drip.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "era",
+    "aliases": [
+      "in my era",
+      "villain era"
+    ],
+    "meaning": "a phase of life with a certain vibe",
+    "example": "I'm in my villain era: I'm eating the last slice of pizza.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "extra",
+    "aliases": [
+      "so extra"
+    ],
+    "meaning": "over the top, doing way more than needed",
+    "example": "Bringing a fog machine to a spelling test is a little extra.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "face card",
+    "aliases": [
+      "face card never declines"
+    ],
+    "meaning": "a great-looking face that never fails",
+    "example": "Even in his passport photo, his face card never declines.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "facts",
+    "aliases": [
+      "fax",
+      "fax no printer",
+      "facts no printer"
+    ],
+    "meaning": "that's true, I agree",
+    "example": "Fridays are the best day of the week. Fax, no printer.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "fanum tax",
+    "aliases": [
+      "fanum taxed",
+      "fanum"
+    ],
+    "meaning": "jokingly taking a bite of a friend's food",
+    "example": "You got fries? Sorry, Fanum tax, I'm taking three.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "finna",
+    "aliases": [
+      "fixing to"
+    ],
+    "meaning": "about to, going to",
+    "example": "I'm finna eat this whole sandwich in three heroic bites.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "fire",
+    "aliases": [
+      "straight fire",
+      "fye"
+    ],
+    "meaning": "awesome, excellent, really cool",
+    "example": "Your new sneakers are fire. Do they make you run faster too?",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "fit check",
+    "aliases": [
+      "fit",
+      "outfit check"
+    ],
+    "meaning": "a moment to show off what you're wearing",
+    "example": "Fit check: superhero cape, rain boots, and total confidence.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "flex",
+    "aliases": [
+      "flexing"
+    ],
+    "meaning": "to show off something you're proud of",
+    "example": "Not to flex, but I folded all my laundry the same day I washed it.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "for the plot",
+    "aliases": [
+      "do it for the plot"
+    ],
+    "meaning": "doing something fun or random just to make a good story",
+    "example": "I ordered the mystery flavor ice cream, purely for the plot.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "fr",
+    "aliases": [
+      "for real",
+      "for real for real",
+      "frfr"
+    ],
+    "meaning": "for real; shows you truly mean it",
+    "example": "This cereal is the greatest invention in human history, fr.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "fumble the bag",
+    "aliases": [
+      "fumbled the bag",
+      "fumbled"
+    ],
+    "meaning": "to blow a great opportunity",
+    "example": "I had a free cookie in my hand and dropped it in the pond. Fumbled the bag.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "FYP",
+    "aliases": [
+      "for you page"
+    ],
+    "meaning": "the personalized video feed on TikTok",
+    "example": "Somehow my FYP is now entirely ducks wearing hats.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "gas up",
+    "aliases": [
+      "gassing",
+      "gassed up",
+      "gassing up"
+    ],
+    "meaning": "to hype someone up with lots of compliments",
+    "example": "My friends gassed me up so much I now believe I can sing opera.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "gatekeep",
+    "aliases": [
+      "gatekeeping"
+    ],
+    "meaning": "to keep a cool find secret so others can't enjoy it",
+    "example": "Tell me where you got that dinosaur hoodie and stop gatekeeping.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "Gen Z stare",
+    "aliases": [],
+    "meaning": "a blank, silent stare instead of a normal reply",
+    "example": "The cashier said have a nice day and I gave him the Gen Z stare.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "GG",
+    "aliases": [
+      "ggs",
+      "ggwp",
+      "good game"
+    ],
+    "meaning": "good game; also a way to say it's over",
+    "example": "The dog ate my homework and the backup copy. GG.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "ghost",
+    "aliases": [
+      "ghosted"
+    ],
+    "meaning": "to suddenly stop replying to someone with no explanation",
+    "example": "My library book ghosted me; it's been hiding under the bed for a month.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "girl dinner",
+    "aliases": [],
+    "meaning": "a meal made from random snacks instead of real cooking",
+    "example": "Cheese cubes, three grapes, and one pickle: dinner is served.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "glow up",
+    "aliases": [
+      "glo up",
+      "glow-up",
+      "glowed up"
+    ],
+    "meaning": "a big change for the better in looks, style, or life",
+    "example": "My bike had a total glow up after I added streamers and a horn.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "go off",
+    "aliases": [],
+    "meaning": "cheering someone on to keep going",
+    "example": "You're explaining dinosaur facts again? Go off, king of fossils.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "GOAT",
+    "aliases": [
+      "g.o.a.t.",
+      "the goat"
+    ],
+    "meaning": "the greatest of all time",
+    "example": "Grandma's lasagna is the GOAT of all lasagnas.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "goated",
+    "aliases": [],
+    "meaning": "amazing, top tier, worthy of GOAT status",
+    "example": "This playground slide is goated; it's basically a roller coaster.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "green flag",
+    "aliases": [],
+    "meaning": "a good sign that someone is kind or trustworthy",
+    "example": "She shares her snacks without being asked. Green flag.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "hard launch",
+    "aliases": [
+      "hard launched"
+    ],
+    "meaning": "to officially and proudly reveal something online",
+    "example": "After weeks of hints, he hard launched his ten-layer sandwich.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "he's him",
+    "aliases": [
+      "she's her",
+      "him"
+    ],
+    "meaning": "they're the real deal, the absolute best",
+    "example": "He scored the winning goal and fixed the snack machine. He's him.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "heated",
+    "aliases": [],
+    "meaning": "really mad or worked up",
+    "example": "My little sister got heated when the board game ended in a tie.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "highkey",
+    "aliases": [
+      "high-key"
+    ],
+    "meaning": "openly and very much, no hiding it",
+    "example": "I highkey need a nap after that math quiz.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "hits different",
+    "aliases": [
+      "hit different",
+      "hitting different"
+    ],
+    "meaning": "feels extra special or better than usual",
+    "example": "Cereal at midnight just hits different.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "hop off",
+    "aliases": [],
+    "meaning": "back off, stop bugging someone",
+    "example": "Hop off my fries, seagull.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "hot take",
+    "aliases": [],
+    "meaning": "a bold or surprising opinion",
+    "example": "Hot take: the crust is the best part of the sandwich.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "I fear",
+    "aliases": [],
+    "meaning": "a dramatic way to say I think or I worry",
+    "example": "I fear the cookies have already left the building.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "icl",
+    "aliases": [
+      "i can't lie"
+    ],
+    "meaning": "I can't lie; honestly",
+    "example": "Icl, broccoli is kind of amazing with cheese on it.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "IJBOL",
+    "aliases": [],
+    "meaning": "I just burst out laughing",
+    "example": "My dog sneezed in the middle of a bark. IJBOL.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "it's giving",
+    "aliases": [
+      "its giving",
+      "giving"
+    ],
+    "meaning": "it has the vibe or feel of something",
+    "example": "Your outfit is giving pirate who works at a library.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "it's the ___ for me",
+    "aliases": [
+      "it's the for me",
+      "its the for me"
+    ],
+    "meaning": "pointing out one detail that really stands out",
+    "example": "It's the tiny chef hat on the hamster for me.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "iykyk",
+    "aliases": [
+      "if you know you know"
+    ],
+    "meaning": "if you know, you know; a nod to an inside joke",
+    "example": "Taco Tuesday at Grandma's house is legendary. Iykyk.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "L",
+    "aliases": [
+      "big l",
+      "take the L",
+      "took an l"
+    ],
+    "meaning": "a loss or a fail",
+    "example": "Dropped my ice cream on the very first lick. Massive L.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "lagging",
+    "aliases": [
+      "you're lagging"
+    ],
+    "meaning": "being slow to catch on, like a glitchy video game",
+    "example": "You just laughed at the joke from five minutes ago? You're lagging.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "larp",
+    "aliases": [
+      "larping",
+      "larper"
+    ],
+    "meaning": "to pretend to be someone you're not, like playing a role",
+    "example": "I put on a lab coat and larped as a scientist while pouring cereal.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "left on read",
+    "aliases": [
+      "leave on read"
+    ],
+    "meaning": "when someone sees your message but doesn't reply",
+    "example": "I texted my cat a heart and she left me on read.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "let him cook",
+    "aliases": [
+      "let her cook",
+      "let them cook"
+    ],
+    "meaning": "let them keep going; they might be onto something",
+    "example": "He's putting pickles on his pancakes, but let him cook.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "lock in",
+    "aliases": [
+      "locked in",
+      "locking in"
+    ],
+    "meaning": "to focus hard and get serious",
+    "example": "Spelling bee tomorrow. Time to lock in and befriend the dictionary.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "lore",
+    "aliases": [
+      "lore drop",
+      "lore dump"
+    ],
+    "meaning": "someone's backstory or personal history",
+    "example": "Wait, you were a yo-yo champion? I need the full lore.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "low cortisol",
+    "aliases": [],
+    "meaning": "super relaxed and stress-free",
+    "example": "Hammock, lemonade, and chirping birds. Very low cortisol afternoon.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "low taper fade",
+    "aliases": [
+      "the low taper fade meme"
+    ],
+    "meaning": "a haircut, and a meme insisting it is still hugely popular",
+    "example": "Grandpa asked the barber for a low taper fade and now rules bingo night.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "lowkenuinely",
+    "aliases": [],
+    "meaning": "a mix of lowkey and genuinely; honestly, kind of",
+    "example": "I lowkenuinely think my dog understands fractions.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "lowkey",
+    "aliases": [
+      "low-key",
+      "lowk"
+    ],
+    "meaning": "kind of, secretly, or just a little bit",
+    "example": "I lowkey want to join the chess club just for the snacks.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "main character",
+    "aliases": [
+      "main character energy",
+      "main character vibes",
+      "mc energy"
+    ],
+    "meaning": "acting like the star of your own movie",
+    "example": "She walked through the rain with headphones on, full main character energy.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "maxxing",
+    "aliases": [
+      "-maxxing",
+      "sleepmaxxing",
+      "snackmaxxing"
+    ],
+    "meaning": "going all in on one thing to make it as great as possible",
+    "example": "This weekend I'm sleepmaxxing; wake me up on Monday.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "mid",
+    "aliases": [],
+    "meaning": "just okay, average, nothing special",
+    "example": "The movie was mid, but the popcorn was a masterpiece.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "moots",
+    "aliases": [
+      "moot",
+      "mutuals"
+    ],
+    "meaning": "people you follow who also follow you back",
+    "example": "All my moots reposted my drawing of a dancing potato.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "mother",
+    "aliases": [
+      "mothering",
+      "she's mother",
+      "mothered"
+    ],
+    "meaning": "someone iconic who sets the standard, or doing something iconic",
+    "example": "Grandma's dance moves at the family reunion? Mother.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "nah, I'd win",
+    "aliases": [
+      "nah id win",
+      "nah i'd win"
+    ],
+    "meaning": "a joking, overconfident reply when asked if you can handle a challenge",
+    "example": "Could you beat a goose in a staring contest? Nah, I'd win.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "nerf",
+    "aliases": [
+      "nerfed"
+    ],
+    "meaning": "to make something weaker or less fun",
+    "example": "Mom nerfed my allowance after the glitter incident.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "ngl",
+    "aliases": [
+      "not gonna lie"
+    ],
+    "meaning": "not gonna lie; to be honest",
+    "example": "Ngl, I practice my dance moves in the bathroom mirror every morning.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "no cap",
+    "aliases": [
+      "no capping"
+    ],
+    "meaning": "no lie, for real",
+    "example": "No cap, my dog finished my puzzle faster than I did.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "no thoughts, head empty",
+    "aliases": [
+      "no thoughts head empty"
+    ],
+    "meaning": "feeling totally blank, carefree, and spaced out",
+    "example": "Just watching the fish tank like: no thoughts, head empty.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "nonchalant",
+    "aliases": [
+      "nonchalant behavior"
+    ],
+    "meaning": "acting calm and unbothered, like nothing fazes you",
+    "example": "He got a perfect score and just said cool. So nonchalant.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "NPC",
+    "aliases": [
+      "npc behavior",
+      "npcs"
+    ],
+    "meaning": "someone acting like a background video game character, predictable or robotic",
+    "example": "The waiter said enjoy your meal and I said you too. Full NPC moment.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "Ohio",
+    "aliases": [
+      "only in ohio",
+      "ohio moment"
+    ],
+    "meaning": "random or bizarre, from a meme joking that weird stuff happens there",
+    "example": "A pigeon just rode the bus and paid the fare. Only in Ohio.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "on god",
+    "aliases": [
+      "ong"
+    ],
+    "meaning": "I swear, I'm completely serious",
+    "example": "Ong, the cat just opened the fridge all by herself.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "oof",
+    "aliases": [],
+    "meaning": "ouch; a reaction to something awkward or painful",
+    "example": "Oof, you stepped on a toy brick barefoot? Sending thoughts to your toes.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "oomf",
+    "aliases": [],
+    "meaning": "one of my followers or friends, said without naming them",
+    "example": "Oomf just posted their dog wearing tiny sunglasses and I'm obsessed.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "out of pocket",
+    "aliases": [],
+    "meaning": "wild, unexpected, or a bit out of line",
+    "example": "Putting ketchup on ice cream is out of pocket, my friend.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "peak",
+    "aliases": [
+      "that's peak"
+    ],
+    "meaning": "the very best, top quality",
+    "example": "Waking up to the smell of pancakes is peak.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "periodt",
+    "aliases": [
+      "period",
+      "perioddd"
+    ],
+    "meaning": "end of discussion, that's final",
+    "example": "Breakfast for dinner is the best dinner, periodt.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "pookie",
+    "aliases": [
+      "pookie bear"
+    ],
+    "meaning": "a cute nickname for someone you adore",
+    "example": "Grandpa calls his golf cart pookie and washes it every Sunday.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "pop off",
+    "aliases": [
+      "popped off",
+      "popping off"
+    ],
+    "meaning": "to do amazingly well, or to go on an epic rant",
+    "example": "The goalie popped off with ten saves in a row.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "POV",
+    "aliases": [],
+    "meaning": "point of view; sets up a scene from someone's perspective",
+    "example": "POV: you're the last chicken nugget at the birthday party.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "pressed",
+    "aliases": [],
+    "meaning": "annoyed or bothered",
+    "example": "Why are you so pressed that I got the top bunk?",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "purr",
+    "aliases": [
+      "purrr"
+    ],
+    "meaning": "a happy yes; that's right, love it",
+    "example": "You aced the test and saved me a cookie? Purr.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "queen",
+    "aliases": [
+      "king",
+      "queen behavior",
+      "king behavior"
+    ],
+    "meaning": "praise for someone doing something great",
+    "example": "You remembered everyone's birthday this year? Queen behavior.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "quiet on the creek",
+    "aliases": [],
+    "meaning": "keep it a secret, don't tell anyone",
+    "example": "I'm planning Mom's surprise party, so quiet on the creek.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "rage bait",
+    "aliases": [
+      "ragebait"
+    ],
+    "meaning": "content made on purpose to make people mad",
+    "example": "Posting a sandwich cut into tiny squares is pure rage bait.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "ratio",
+    "aliases": [
+      "got ratioed",
+      "ratio'd",
+      "ratioed"
+    ],
+    "meaning": "when replies to a post outnumber its likes, showing people disagree",
+    "example": "I posted that cats beat dogs and got ratioed by every dog owner in town.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "receipts",
+    "aliases": [],
+    "meaning": "proof, like screenshots or photos",
+    "example": "You promised to share your fries, and I have receipts.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "red flag",
+    "aliases": [],
+    "meaning": "a warning sign about someone or something",
+    "example": "He doesn't like puppies? Red flag.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "rent free",
+    "aliases": [
+      "living rent free",
+      "rent-free"
+    ],
+    "meaning": "stuck in your head all the time",
+    "example": "That mattress store jingle lives in my brain rent free.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "rizz",
+    "aliases": [
+      "rizzed",
+      "rizz up",
+      "w rizz"
+    ],
+    "meaning": "charm, especially the knack for winning people over",
+    "example": "My grandpa has so much rizz the lunch lady gives him extra pudding.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "rizzler",
+    "aliases": [
+      "the rizzler"
+    ],
+    "meaning": "someone with tons of charm, a total smooth talker",
+    "example": "The class hamster is the real rizzler; everyone lines up to hold him.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "Roman Empire",
+    "aliases": [
+      "my roman empire"
+    ],
+    "meaning": "something you think about way more than you should",
+    "example": "That one perfect cartwheel I did in third grade is my Roman Empire.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "salty",
+    "aliases": [
+      "salty about it",
+      "so salty"
+    ],
+    "meaning": "bitter or grumpy about something",
+    "example": "He's still salty that I beat him at rock-paper-scissors.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "say less",
+    "aliases": [],
+    "meaning": "got it, no need to explain, I'm in",
+    "example": "You found a secret donut shop? Say less, I'm putting on my shoes.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "scuba",
+    "aliases": [
+      "scuba dance"
+    ],
+    "meaning": "a silly nose-holding meme move, used when something stinks or seems fake",
+    "example": "Someone opened a can of tuna on the bus. Everybody, scuba!",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "secure the bag",
+    "aliases": [
+      "get the bag",
+      "bag secured"
+    ],
+    "meaning": "to earn money or grab a big opportunity",
+    "example": "Sold every cup of lemonade before noon. Bag secured.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "send it",
+    "aliases": [
+      "full send",
+      "sent it"
+    ],
+    "meaning": "go for it all the way",
+    "example": "The sled hill looks huge. Helmets on, let's send it!",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "sending me",
+    "aliases": [
+      "you're sending me",
+      "sent me"
+    ],
+    "meaning": "making me laugh really hard",
+    "example": "Your impression of a confused pigeon is sending me.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "serving",
+    "aliases": [
+      "serve",
+      "serving looks"
+    ],
+    "meaning": "showing off a great look or attitude",
+    "example": "The dog is serving in his tiny yellow raincoat.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "sheesh",
+    "aliases": [
+      "sheeesh"
+    ],
+    "meaning": "wow, that's seriously impressive",
+    "example": "Sheesh, you built a whole castle out of mashed potatoes?",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "ship",
+    "aliases": [
+      "I ship it",
+      "i ship it",
+      "shipper",
+      "shipping"
+    ],
+    "meaning": "to root for two people or characters to be a couple",
+    "example": "I ship peanut butter and jelly; they were made for each other.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "shook",
+    "aliases": [],
+    "meaning": "shocked or totally surprised",
+    "example": "I was shook when the parrot said my name better than my teacher does.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "side quest",
+    "aliases": [
+      "sidequest"
+    ],
+    "meaning": "a random detour from what you were supposed to do",
+    "example": "I went to buy milk and ended up on a side quest to pet every dog.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "situationship",
+    "aliases": [],
+    "meaning": "a relationship that is more than friends but not official",
+    "example": "Me and the vending machine are in a situationship; it takes my money but never commits.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "skibidi",
+    "aliases": [],
+    "meaning": "a nonsense word from a viral video series that can mean almost anything",
+    "example": "My little brother answered every question at dinner with skibidi.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "skill issue",
+    "aliases": [],
+    "meaning": "a playful way to say you lost because you need more practice",
+    "example": "Lost to my little brother at checkers again. Skill issue.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "sksksk",
+    "aliases": [
+      "sksksksk"
+    ],
+    "meaning": "a keyboard mash that shows giggling or excitement",
+    "example": "Sksksk, you put googly eyes on every item in the fridge?",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "slaps",
+    "aliases": [
+      "that slaps",
+      "slap"
+    ],
+    "meaning": "is really good, especially a song",
+    "example": "This lullaby slaps; even the baby is bobbing her head.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "slay",
+    "aliases": [
+      "slayed",
+      "slaying"
+    ],
+    "meaning": "to do something really well or look amazing",
+    "example": "You slayed that science fair volcano; it erupted right on cue.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "slept on",
+    "aliases": [
+      "sleeping on",
+      "so slept on"
+    ],
+    "meaning": "underrated, not getting the attention it deserves",
+    "example": "Plain buttered toast is so slept on.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "slop",
+    "aliases": [
+      "ai slop"
+    ],
+    "meaning": "low-quality, mass-produced content, often made by AI",
+    "example": "That video of a cat playing tuba with seven paws is total AI slop.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "smacks",
+    "aliases": [
+      "it smacks"
+    ],
+    "meaning": "tastes or sounds really good",
+    "example": "This lemonade smacks; I need a second glass immediately.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "so real",
+    "aliases": [
+      "real",
+      "that's so real"
+    ],
+    "meaning": "very relatable, totally true",
+    "example": "Losing one sock in the dryer forever? So real.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "soft launch",
+    "aliases": [
+      "soft launched"
+    ],
+    "meaning": "to hint at something new online without fully revealing it",
+    "example": "She soft launched her new puppy by posting one fluffy ear.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "speedrun",
+    "aliases": [
+      "speed run",
+      "speedran",
+      "speedrunner",
+      "speedrunning"
+    ],
+    "meaning": "to do something super fast, like a gamer racing through a level",
+    "example": "I speedran my chores so I could catch the start of the game.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "stan",
+    "aliases": [
+      "i stan",
+      "stanning",
+      "stans",
+      "we stan"
+    ],
+    "meaning": "to be a huge, devoted fan of someone or something",
+    "example": "I stan this hamster; he runs on his wheel like it's the Olympics.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "standing on business",
+    "aliases": [
+      "stand on business",
+      "on business"
+    ],
+    "meaning": "keeping your word and following through",
+    "example": "I promised to walk the dog every day, and I'm standing on business.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "sus",
+    "aliases": [
+      "sussy"
+    ],
+    "meaning": "suspicious, a little shady",
+    "example": "The cookie jar is empty and the dog has crumbs on his nose. Very sus.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "tea",
+    "aliases": [
+      "what's the tea"
+    ],
+    "meaning": "juicy news or gossip",
+    "example": "Spill the tea: who ate the last cupcake?",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "the ick",
+    "aliases": [
+      "ick",
+      "gave me the ick"
+    ],
+    "meaning": "a sudden grossed-out feeling about something someone does",
+    "example": "Watching him dip fries in milk gave me the ick.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "touch grass",
+    "aliases": [
+      "go touch grass"
+    ],
+    "meaning": "go outside and take a break from the internet",
+    "example": "I've watched cat videos for six hours. Time to touch grass, and maybe a real cat.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "tuff",
+    "aliases": [
+      "that's tuff"
+    ],
+    "meaning": "cool or impressive",
+    "example": "Your skateboard trick was tuff; even the pigeons looked impressed.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "twin",
+    "aliases": [
+      "twizzy"
+    ],
+    "meaning": "a close friend, or someone just like you",
+    "example": "We both ordered extra pickles. Twin, we're basically the same person.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "unc",
+    "aliases": [
+      "unc behavior",
+      "unc status"
+    ],
+    "meaning": "a playful nickname for someone acting old-fashioned",
+    "example": "My brother turned twenty and now groans when he stands up. Unc behavior.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "understood the assignment",
+    "aliases": [],
+    "meaning": "nailed exactly what was needed, and then some",
+    "example": "The dog wore a bow tie to the wedding. He understood the assignment.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "unhinged",
+    "aliases": [],
+    "meaning": "hilariously chaotic or wild",
+    "example": "My cat's 3 a.m. zoomies are completely unhinged.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "unspoken rizz",
+    "aliases": [],
+    "meaning": "charm that works without saying a single word",
+    "example": "He just nodded at the crossing guard and got a high five. Unspoken rizz.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "valid",
+    "aliases": [],
+    "meaning": "reasonable, fair, totally makes sense",
+    "example": "Wanting a nap right after lunch is completely valid.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "very demure",
+    "aliases": [
+      "demure",
+      "very mindful"
+    ],
+    "meaning": "polite, modest, and composed, said in a playful way",
+    "example": "I wore a cardigan to the library and whispered the whole time. Very demure.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "vibe check",
+    "aliases": [],
+    "meaning": "a quick test of someone's mood or attitude",
+    "example": "Vibe check: who's ready for a dance party in the kitchen?",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "vibing",
+    "aliases": [
+      "vibe",
+      "vibes",
+      "it's a vibe"
+    ],
+    "meaning": "relaxing and enjoying the moment",
+    "example": "The turtle is just vibing on his rock, living his best life.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "W",
+    "aliases": [
+      "big W",
+      "big w",
+      "dub"
+    ],
+    "meaning": "a win or a success",
+    "example": "Snow day and pancakes for breakfast? Huge W.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "weird flex but ok",
+    "aliases": [
+      "weird flex",
+      "weird flex but okay"
+    ],
+    "meaning": "a playful reply to an odd thing to brag about",
+    "example": "You can name forty kinds of cheese? Weird flex, but ok.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "who is she",
+    "aliases": [
+      "who is she?",
+      "who is this diva"
+    ],
+    "meaning": "a playful compliment when someone looks amazing",
+    "example": "Grandma in her new sparkly sunglasses? Who is she?",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "wildin",
+    "aliases": [
+      "wilding",
+      "wildin'"
+    ],
+    "meaning": "acting outrageous or over the top",
+    "example": "That squirrel just stole a whole bagel. He's wildin.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "womp womp",
+    "aliases": [],
+    "meaning": "a sarcastic way to say oh well, too bad",
+    "example": "You wanted the last donut? Womp womp, I got here first.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "yap",
+    "aliases": [
+      "yapping",
+      "yapper"
+    ],
+    "meaning": "to talk a lot, often about nothing much",
+    "example": "My parrot has been yapping since sunrise; he should start a podcast.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "yassify",
+    "aliases": [
+      "yassified"
+    ],
+    "meaning": "to make something extremely glamorous, like with beauty filters",
+    "example": "Someone yassified a photo of my goldfish and now he looks like a movie star.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "yeet",
+    "aliases": [
+      "yeeted"
+    ],
+    "meaning": "to throw something with lots of energy; also a happy shout",
+    "example": "I yeeted the frisbee so far it landed in next week.",
+    "category": "gen-z",
+    "region": "US"
+  },
+  {
+    "term": "+1",
+    "aliases": [
+      "plus one"
+    ],
+    "meaning": "I agree, or count me in",
+    "example": "Tacos for lunch? +1, I'll bring the salsa.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "<3",
+    "aliases": [],
+    "meaning": "a sideways heart that shows love or thanks",
+    "example": "Thanks for bringing me soup when I was sick <3",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "afaik",
+    "aliases": [],
+    "meaning": "as far as I know",
+    "example": "afaik, the bake sale starts at noon and the brownies vanish by 12:05.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "ama",
+    "aliases": [],
+    "meaning": "ask me anything; an open invitation for questions",
+    "example": "I have owned a very loud parrot for ten years. ama about noisy breakfasts.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "asap",
+    "aliases": [],
+    "meaning": "as soon as possible",
+    "example": "Please send help asap; I opened a family-size bag of chips and cannot stop.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "bc",
+    "aliases": [
+      "b/c",
+      "cuz"
+    ],
+    "meaning": "because",
+    "example": "I'm wearing two hoodies bc the library thermostat thinks it's the North Pole.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "bff",
+    "aliases": [
+      "bffs"
+    ],
+    "meaning": "best friends forever",
+    "example": "My dog and the mail carrier are bffs now, which confuses the whole street.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "big brain",
+    "aliases": [
+      "big brain move",
+      "galaxy brain"
+    ],
+    "meaning": "a super clever idea or move, sometimes said jokingly",
+    "example": "Bringing a folding chair to wait in the long line was a big brain move.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "boop",
+    "aliases": [],
+    "meaning": "a gentle tap on the nose",
+    "example": "I gave the puppy a boop and he sneezed in total surprise.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "brb",
+    "aliases": [],
+    "meaning": "be right back",
+    "example": "brb, the pizza just arrived and I refuse to keep the cheese waiting.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "btw",
+    "aliases": [],
+    "meaning": "by the way; adds an extra thought",
+    "example": "Great job on the speech! btw, you have frosting on your eyebrow.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "bump",
+    "aliases": [
+      "bumping"
+    ],
+    "meaning": "replying to a post so it moves back to the top",
+    "example": "bump, because nobody has answered my very important pancake question.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "canon",
+    "aliases": [],
+    "meaning": "officially part of the real story, not made up by fans",
+    "example": "Is it canon that the wizard loves pancakes? Because I have decided it is.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "chonk",
+    "aliases": [
+      "chonky",
+      "chonker"
+    ],
+    "meaning": "an adorably chubby animal",
+    "example": "Our cat is such a chonk that he needs two cushions for a proper nap.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "clickbait",
+    "aliases": [],
+    "meaning": "a headline made to trick you into clicking",
+    "example": "'You won't believe what this potato did!' Clickbait. It just sat there being a potato.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "copium",
+    "aliases": [],
+    "meaning": "a joke name for the imaginary comfort people use to cope with a loss",
+    "example": "'We lost because the sun was in our eyes.' We played indoors. Pure copium.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "cursed",
+    "aliases": [
+      "cursed image"
+    ],
+    "meaning": "weird and unsettling in a funny way",
+    "example": "A cat with human eyebrows? That photo is cursed. Please send more.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "cya",
+    "aliases": [
+      "cu"
+    ],
+    "meaning": "see ya; a casual goodbye",
+    "example": "cya tomorrow, and don't forget the snacks!",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "derp",
+    "aliases": [
+      "derpy"
+    ],
+    "meaning": "a goofy mistake or a silly, confused face",
+    "example": "I put the cereal in the fridge and the milk in the cupboard. Derp.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "dm",
+    "aliases": [
+      "dms",
+      "pm"
+    ],
+    "meaning": "direct message; a private message sent to one person online",
+    "example": "Send me a dm with the cookie recipe before Grandma changes her mind.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "doggo",
+    "aliases": [],
+    "meaning": "a dog, said in a cute internet way",
+    "example": "The doggo stole a sock and ran a victory lap around the yard.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "eli5",
+    "aliases": [],
+    "meaning": "explain like I'm five; asks for a super simple explanation",
+    "example": "eli5: how does the microwave know my popcorn is almost done?",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "facepalm",
+    "aliases": [
+      "*facepalm*",
+      "face palm"
+    ],
+    "meaning": "putting your face in your hand at something silly",
+    "example": "Dad waved back at someone who was waving at me. Total facepalm.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "fanfic",
+    "aliases": [
+      "fanfiction",
+      "fan fic"
+    ],
+    "meaning": "stories fans write using characters from their favorite books or shows",
+    "example": "I wrote a fanfic where all the robots quit and open a cupcake bakery.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "floof",
+    "aliases": [
+      "floofy"
+    ],
+    "meaning": "a very fluffy animal, or its fluffy fur",
+    "example": "My cat is ninety percent floof and ten percent attitude.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "fomo",
+    "aliases": [
+      "fear of missing out"
+    ],
+    "meaning": "fear of missing out; worry that others are having fun without you",
+    "example": "The bake sale photos gave me so much fomo that I went back for seconds.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "ftw",
+    "aliases": [],
+    "meaning": "for the win; cheers for something awesome",
+    "example": "Snow day, hot cocoa, and a brand-new puzzle. Pajamas ftw!",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "fwiw",
+    "aliases": [],
+    "meaning": "for what it's worth; offers a small opinion or fact",
+    "example": "fwiw, I think your snowman looks extremely dignified.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "fyi",
+    "aliases": [],
+    "meaning": "for your information; a quick heads-up",
+    "example": "fyi, the cat has claimed your chair and is not taking questions.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "gl",
+    "aliases": [],
+    "meaning": "good luck",
+    "example": "gl on your spelling test, you've totally got this!",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "gm",
+    "aliases": [],
+    "meaning": "good morning",
+    "example": "gm! The coffee is ready and the dog has opinions about breakfast.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "gn",
+    "aliases": [
+      "gnight",
+      "nite"
+    ],
+    "meaning": "good night",
+    "example": "gn everyone, my pillow and I have a very important meeting.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "gtg",
+    "aliases": [
+      "g2g"
+    ],
+    "meaning": "got to go",
+    "example": "gtg, Mom says the lasagna waits for no one.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "hbd",
+    "aliases": [],
+    "meaning": "happy birthday",
+    "example": "hbd! May your cake be huge and your candles easy to blow out.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "hbu",
+    "aliases": [
+      "wbu"
+    ],
+    "meaning": "how about you? (wbu means what about you?)",
+    "example": "I'm good, just teaching my parrot to say please. hbu?",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "headcanon",
+    "aliases": [],
+    "meaning": "a fan's personal idea about a story that isn't official",
+    "example": "My headcanon is that the dragon secretly knits sweaters on weekends.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "hmu",
+    "aliases": [],
+    "meaning": "hit me up; contact me or invite me",
+    "example": "If anyone needs a karaoke partner who only knows one song, hmu.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "humblebrag",
+    "aliases": [
+      "humble brag",
+      "humble-brag"
+    ],
+    "meaning": "bragging while pretending to complain",
+    "example": "'Ugh, my trophy shelf is getting so crowded.' Nice humblebrag.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "icymi",
+    "aliases": [],
+    "meaning": "in case you missed it",
+    "example": "icymi, the hamster escaped again and was found napping in a slipper.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "idc",
+    "aliases": [],
+    "meaning": "I don't care; often means any choice is fine with me",
+    "example": "Pineapple or no pineapple? idc, as long as the pizza shows up hot.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "idek",
+    "aliases": [],
+    "meaning": "I don't even know",
+    "example": "How did glitter get inside my shoes? idek anymore.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "idk",
+    "aliases": [],
+    "meaning": "I don't know",
+    "example": "Where do all the missing left socks go? idk, maybe they started a band.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "iirc",
+    "aliases": [],
+    "meaning": "if I remember correctly",
+    "example": "iirc, the last time we played this board game it lasted six hours.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "ikr",
+    "aliases": [],
+    "meaning": "I know, right? said when you totally agree",
+    "example": "'This song is so catchy!' 'ikr, I have hummed it forty times today.'",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "ily",
+    "aliases": [
+      "ilysm"
+    ],
+    "meaning": "I love you (ilysm means I love you so much)",
+    "example": "ily, Mom, and thanks for making the good pancakes on a Tuesday.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "imho",
+    "aliases": [],
+    "meaning": "in my humble opinion",
+    "example": "imho, the best way to recover from a nap is another nap.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "imo",
+    "aliases": [],
+    "meaning": "in my opinion",
+    "example": "imo, pancakes are just cake that learned to wake up early.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "imy",
+    "aliases": [],
+    "meaning": "I miss you",
+    "example": "imy! Come back soon; the cat keeps sitting in your chair.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "irl",
+    "aliases": [],
+    "meaning": "in real life, as opposed to online",
+    "example": "We chatted online for years, so finding out irl that you are seven feet tall was a shock.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "jk",
+    "aliases": [
+      "j/k",
+      "jking"
+    ],
+    "meaning": "just kidding",
+    "example": "I ate every last cookie. jk, I saved you three, I'm not a monster.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "k",
+    "aliases": [
+      "kk"
+    ],
+    "meaning": "okay",
+    "example": "'Dinner at six?' 'k, I'll bring dessert and my appetite.'",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "lmao",
+    "aliases": [],
+    "meaning": "laughing very hard, way past a polite chuckle",
+    "example": "Grandpa asked the smart speaker how its day was going and waited for an answer, lmao.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "lmk",
+    "aliases": [],
+    "meaning": "let me know",
+    "example": "lmk if you want extra marshmallows; I bought a suspicious amount.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "lol",
+    "aliases": [],
+    "meaning": "laughing out loud; used when something is funny",
+    "example": "My cat sneezed so hard she scared herself off the couch, lol.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "lurker",
+    "aliases": [
+      "lurk",
+      "lurking"
+    ],
+    "meaning": "someone who reads a chat or forum but rarely posts",
+    "example": "I was a lurker for months before finally posting my cat's portrait.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "meme",
+    "aliases": [
+      "memes"
+    ],
+    "meaning": "a funny picture, video, or phrase that spreads quickly online",
+    "example": "My dog's confused head tilt became a meme in the family chat overnight.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "mfw",
+    "aliases": [],
+    "meaning": "my face when; shows your reaction to something",
+    "example": "mfw the pizza arrives five minutes early.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "nbd",
+    "aliases": [],
+    "meaning": "no big deal",
+    "example": "I just set a new household record in cup stacking, nbd.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "np",
+    "aliases": [
+      "no prob"
+    ],
+    "meaning": "no problem; happy to help",
+    "example": "Thanks for helping me move the couch! np, my arms will forgive me eventually.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "nvm",
+    "aliases": [
+      "nvmd"
+    ],
+    "meaning": "never mind; forget what I just said",
+    "example": "Has anyone seen my glasses? nvm, they were on my head the whole time.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "ofc",
+    "aliases": [],
+    "meaning": "of course",
+    "example": "Will I help you finish the leftover cake? ofc, I am a team player.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "omg",
+    "aliases": [
+      "omgosh"
+    ],
+    "meaning": "oh my gosh; a gasp of surprise or excitement",
+    "example": "omg, the dog learned to open the fridge and now he is unstoppable.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "omw",
+    "aliases": [
+      "otw"
+    ],
+    "meaning": "on my way",
+    "example": "omw! Just need to find my other shoe and my car keys.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "photobomb",
+    "aliases": [
+      "photobombed",
+      "photobombing"
+    ],
+    "meaning": "sneaking into someone else's photo for laughs",
+    "example": "A llama photobombed our family picture and honestly improved it.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "pls",
+    "aliases": [
+      "plz"
+    ],
+    "meaning": "please",
+    "example": "pls tell me someone saved me a slice of pizza.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "press F",
+    "aliases": [
+      "f in the chat",
+      "press f to pay respects"
+    ],
+    "meaning": "a playful way to show sympathy over a small misfortune",
+    "example": "My sandwich fell butter-side down. Press F.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "psa",
+    "aliases": [],
+    "meaning": "public service announcement; an important heads-up for everyone",
+    "example": "psa: the cookies in the break room are oatmeal raisin, not chocolate chip.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "pupper",
+    "aliases": [],
+    "meaning": "a puppy or small dog, said affectionately",
+    "example": "The pupper tripped over his own ears and still looked very proud.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "rickroll",
+    "aliases": [
+      "rickrolled",
+      "rick roll"
+    ],
+    "meaning": "tricking someone into clicking a link to a famous 1980s pop music video",
+    "example": "I clicked 'free pizza coupon' and got rickrolled. Still a great song, though.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "rn",
+    "aliases": [],
+    "meaning": "right now",
+    "example": "I am eating cereal for dinner rn and feeling like a genius.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "rofl",
+    "aliases": [
+      "rotfl"
+    ],
+    "meaning": "rolling on the floor laughing",
+    "example": "You named your goldfish Sir Bubbles the Third? rofl, I need to meet him.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "smh",
+    "aliases": [],
+    "meaning": "shaking my head; mild, playful disappointment",
+    "example": "You poured the milk before the cereal again? smh, pure chaos in a bowl.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "smol",
+    "aliases": [],
+    "meaning": "small and adorable",
+    "example": "Look at this smol kitten trying to climb one stair like it's a mountain.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "spam",
+    "aliases": [
+      "spamming"
+    ],
+    "meaning": "flooding a chat or inbox with the same message over and over",
+    "example": "My little sister will spam the group chat with frog stickers until someone replies.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "srsly",
+    "aliases": [],
+    "meaning": "seriously",
+    "example": "srsly, how does the dog always know when I open the cheese?",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "stonks",
+    "aliases": [],
+    "meaning": "a joking way to say profits or things are going up",
+    "example": "Sold three cups of lemonade and found a quarter on the sidewalk. Stonks.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "sup",
+    "aliases": [
+      "'sup",
+      "wassup",
+      "wazzup",
+      "whassup",
+      "what's up"
+    ],
+    "meaning": "what's up? a casual hello",
+    "example": "sup! Ready for the world's most intense game of tic-tac-toe?",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "tbf",
+    "aliases": [],
+    "meaning": "to be fair",
+    "example": "He did burn the toast, but tbf, that toaster has been plotting for years.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "tbh",
+    "aliases": [
+      "tbqh"
+    ],
+    "meaning": "to be honest (tbqh means to be quite honest)",
+    "example": "tbh, I only joined the hiking club for the trail snacks.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "tfw",
+    "aliases": [],
+    "meaning": "that feeling when; describes a relatable moment",
+    "example": "tfw you find a dollar in last winter's coat pocket.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "this is fine",
+    "aliases": [],
+    "meaning": "pretending everything is okay when it clearly isn't",
+    "example": "The printer jammed, the dog ate my notes, and we're out of milk. This is fine.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "til",
+    "aliases": [],
+    "meaning": "today I learned; used to share a fun new fact",
+    "example": "til otters hold hands while they nap so they don't float away from each other.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "tl;dr",
+    "aliases": [
+      "tldr",
+      "tl dr"
+    ],
+    "meaning": "too long; didn't read - a quick summary of a long post",
+    "example": "tl;dr: the meeting moved, there are donuts, and nobody knows why.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "tmi",
+    "aliases": [],
+    "meaning": "too much information; more detail than anyone needed",
+    "example": "You described all twelve steps of your sandwich routine? tmi, but I respect it.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "tmrw",
+    "aliases": [
+      "tmr",
+      "2moro"
+    ],
+    "meaning": "tomorrow",
+    "example": "Field trip tmrw! Pack a lunch and your best walking shoes.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "ttyl",
+    "aliases": [],
+    "meaning": "talk to you later",
+    "example": "Gotta go rescue my sandwich from the toaster, ttyl!",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "ty",
+    "aliases": [
+      "thx",
+      "thnx",
+      "tysm"
+    ],
+    "meaning": "thank you (tysm means thank you so much)",
+    "example": "ty for the birthday socks; my feet have never felt so fancy.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "viral",
+    "aliases": [
+      "went viral",
+      "go viral"
+    ],
+    "meaning": "spreading super fast across the internet",
+    "example": "Our video of the dancing goat went viral, and now he expects fan mail.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "wdym",
+    "aliases": [
+      "wym"
+    ],
+    "meaning": "what do you mean?",
+    "example": "wdym the cookies are for the bake sale and not for me?",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "wya",
+    "aliases": [],
+    "meaning": "where you at? asks where someone is",
+    "example": "wya? The movie starts in five minutes and I'm guarding your popcorn.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "wyd",
+    "aliases": [],
+    "meaning": "what (are) you doing?",
+    "example": "wyd this weekend? I am planning a very serious blanket fort.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "XD",
+    "aliases": [],
+    "meaning": "a laughing face with squeezed-shut eyes",
+    "example": "You tripped over the cat and she gave you the dirtiest look XD",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "xoxo",
+    "aliases": [],
+    "meaning": "hugs and kisses; a warm, friendly sign-off",
+    "example": "Have fun at camp and send me a postcard! xoxo, Grandma",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "yolo",
+    "aliases": [
+      "you only live once"
+    ],
+    "meaning": "you only live once; a reason to try something fun and new",
+    "example": "I ordered the mystery flavor ice cream. yolo!",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "yw",
+    "aliases": [],
+    "meaning": "you're welcome",
+    "example": "yw! Fixing the printer only took three tries and one pep talk.",
+    "category": "internet",
+    "region": "global"
+  },
+  {
+    "term": "adorbs",
+    "aliases": [
+      "adorbz"
+    ],
+    "meaning": "adorable",
+    "example": "The puppy sneezed and fell over. Adorbs overload, please send help.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "adulting",
+    "aliases": [
+      "adult",
+      "adulted",
+      "adulting hard"
+    ],
+    "meaning": "handling grown-up chores like bills, laundry, and appointments",
+    "example": "I paid a bill and booked a dentist visit before noon. Adulting like a champion.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "all the feels",
+    "aliases": [
+      "the feels",
+      "feels"
+    ],
+    "meaning": "a big wave of emotions all at once",
+    "example": "The lost puppy found its way home in the movie. All the feels, and all the tissues.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "awesomesauce",
+    "aliases": [
+      "awesome sauce"
+    ],
+    "meaning": "extra awesome, like awesome with toppings",
+    "example": "You fixed the wifi and made nachos? That's awesomesauce with extra cheese.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "bae",
+    "aliases": [
+      "my bae"
+    ],
+    "meaning": "your favorite person, like a sweetheart or best buddy",
+    "example": "Pizza is my bae; it's always warm, always cheesy, and always there for me.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "beast mode",
+    "aliases": [
+      "going beast mode",
+      "beast-mode"
+    ],
+    "meaning": "doing something with intense focus and energy",
+    "example": "Mom went full beast mode on spring cleaning; even the dust bunnies packed their bags.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "binge-watch",
+    "aliases": [
+      "binge",
+      "binge watching",
+      "binged"
+    ],
+    "meaning": "watching many episodes of a show in one sitting",
+    "example": "We binge-watched a cooking show and then ordered takeout. Inspiration has limits.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "bougie",
+    "aliases": [
+      "boujee",
+      "bourgie",
+      "boujie"
+    ],
+    "meaning": "fancy, with expensive or upscale taste",
+    "example": "My cat only drinks from the running faucet. Pretty bougie for someone without a job.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "bromance",
+    "aliases": [
+      "bromantic"
+    ],
+    "meaning": "a close, loyal friendship between guys",
+    "example": "Those two share snacks, finish each other's jokes, and wear matching hats. Total bromance.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "chillax",
+    "aliases": [
+      "chillaxing"
+    ],
+    "meaning": "chill out and relax",
+    "example": "Chillax, the pizza is coming. The delivery driver just took the scenic route.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "deets",
+    "aliases": [
+      "deet"
+    ],
+    "meaning": "the details, the important info",
+    "example": "Party at noon? Send me the deets: snacks, games, and is there a bouncy castle?",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "epic",
+    "aliases": [
+      "so epic",
+      "epic win"
+    ],
+    "meaning": "awesome, huge, or legendary",
+    "example": "Our pillow fort had three rooms and a drawbridge. Truly epic engineering.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "epic fail",
+    "aliases": [
+      "fail",
+      "#fail",
+      "major fail"
+    ],
+    "meaning": "a spectacular and usually hilarious mistake",
+    "example": "I tried to bake bread and made a brick. Epic fail, but it's a great doorstop.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "fam",
+    "aliases": [
+      "my fam",
+      "the fam"
+    ],
+    "meaning": "your close friends or family, or a friendly way to address someone",
+    "example": "Thanks for the birthday cake, fam. I'll share. Probably. Eventually.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "fangirl",
+    "aliases": [
+      "fanboy",
+      "fangirling",
+      "fan girl"
+    ],
+    "meaning": "to gush with excitement over something you're a fan of",
+    "example": "I fangirled so hard over the zoo's new baby penguin that the penguin looked embarrassed.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "fetch",
+    "aliases": [
+      "so fetch",
+      "that's so fetch"
+    ],
+    "meaning": "cool or trendy, though it's famous for never quite catching on",
+    "example": "Your polka-dot raincoat is so fetch that even the puddles are jealous.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "fierce",
+    "aliases": [
+      "so fierce"
+    ],
+    "meaning": "bold, confident, and stunning",
+    "example": "Grandma walked into the bingo hall in sparkly sneakers looking absolutely fierce.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "first world problems",
+    "aliases": [
+      "first-world problem",
+      "#firstworldproblems"
+    ],
+    "meaning": "tiny complaints that come from having a pretty comfy life",
+    "example": "My phone charger reaches the bed but not my pillow. Classic first world problems.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "frenemy",
+    "aliases": [
+      "frenemies"
+    ],
+    "meaning": "a friend who is also kind of a rival",
+    "example": "My frenemy and I compete over who brings the best potluck dish. Everyone eats well.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "geek out",
+    "aliases": [
+      "nerd out",
+      "geeking out",
+      "nerding out"
+    ],
+    "meaning": "to get super excited and nerdy about something you love",
+    "example": "Dad geeks out about lawnmowers like they're race cars with big grass dreams.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "ghosting",
+    "aliases": [
+      "ghosted"
+    ],
+    "meaning": "suddenly stopping all replies to someone with no explanation",
+    "example": "My houseplant has been ghosting me ever since I forgot to water it.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "hangry",
+    "aliases": [
+      "hanger"
+    ],
+    "meaning": "grumpy because you're hungry",
+    "example": "Sorry I yelled at the toaster. I was hangry, and it was taking forever.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "hot mess",
+    "aliases": [
+      "a hot mess",
+      "hot mess express"
+    ],
+    "meaning": "a cheerfully chaotic, disorganized situation",
+    "example": "My morning was a hot mess: one sock, cold coffee, and toast in my backpack.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "I can't even",
+    "aliases": [
+      "can't even",
+      "I literally can't even",
+      "I can't"
+    ],
+    "meaning": "I'm too overwhelmed to react, usually in a good or funny way",
+    "example": "The kitten is wearing a tiny hat. I can't even. I'm just pointing at it.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "I know, right?",
+    "aliases": [
+      "I know right"
+    ],
+    "meaning": "I totally agree with you",
+    "example": "'Waffles are just pancakes with abs.' 'I know, right?'",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "jelly",
+    "aliases": [
+      "so jelly",
+      "jelly of"
+    ],
+    "meaning": "jealous, usually in a playful way",
+    "example": "Front-row seats to the puppet show? I'm so jelly, and not the grape kind.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "legit",
+    "aliases": [
+      "legitly",
+      "legit good"
+    ],
+    "meaning": "for real, genuine, or truly",
+    "example": "This taco is legit the best thing that's happened to me all week.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "like a boss",
+    "aliases": [],
+    "meaning": "doing something with total confidence and skill",
+    "example": "He parallel parked on the first try, like a boss, then took a bow.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "meh",
+    "aliases": [
+      "mehh"
+    ],
+    "meaning": "not great, not terrible, just kind of whatever",
+    "example": "How was the movie? Meh. The popcorn was the real star.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "mic drop",
+    "aliases": [
+      "drop the mic",
+      "*mic drop*"
+    ],
+    "meaning": "a perfect final line that ends the discussion",
+    "example": "'I already finished my homework.' Mic drop. Mom had no further questions.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "my jam",
+    "aliases": [
+      "jam",
+      "this is my jam"
+    ],
+    "meaning": "a favorite song, or anything you really love",
+    "example": "When the ice cream truck song plays, I dance every time. That tune is my jam.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "nom nom",
+    "aliases": [
+      "nom",
+      "noms",
+      "nom nom nom"
+    ],
+    "meaning": "the happy sound of eating something tasty",
+    "example": "Grandma's apple pie just came out of the oven. Nom nom, everybody step aside.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "obvi",
+    "aliases": [
+      "obvs"
+    ],
+    "meaning": "obviously",
+    "example": "Will I take the last cookie? Obvi. I've been guarding it since breakfast.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "on fleek",
+    "aliases": [
+      "fleek",
+      "on fleak"
+    ],
+    "meaning": "perfectly styled and looking flawless",
+    "example": "My grandma's knitting is so on fleek that the sheep are asking for her autograph.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "on point",
+    "aliases": [
+      "on-point"
+    ],
+    "meaning": "exactly right or done really well",
+    "example": "Your sandwich-stacking skills are on point. That's a skyscraper of cheese.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "peeps",
+    "aliases": [
+      "my peeps"
+    ],
+    "meaning": "your friends or your people",
+    "example": "Gotta check with my peeps before karaoke night. They know my singing voice.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "perf",
+    "aliases": [],
+    "meaning": "perfect",
+    "example": "Sunny day, fresh donuts, and a free parking spot? Perf. The universe likes me today.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "ridic",
+    "aliases": [
+      "ridonk"
+    ],
+    "meaning": "ridiculous",
+    "example": "This sandwich is ridic; I need both hands and a map to finish it.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "said no one ever",
+    "aliases": [
+      "said nobody ever",
+      "#saidnooneever"
+    ],
+    "meaning": "nobody would really say that (a joking tag)",
+    "example": "'I wish this traffic jam would last longer,' said no one ever.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "selfie",
+    "aliases": [
+      "selfies",
+      "selfie stick"
+    ],
+    "meaning": "a photo you take of yourself",
+    "example": "I took forty selfies to get one good one, and now my thumb needs a nap.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "sorry not sorry",
+    "aliases": [
+      "#sorrynotsorry",
+      "sorry, not sorry"
+    ],
+    "meaning": "I'm not actually sorry, and I'm fine with that",
+    "example": "I ate dessert first today. Sorry not sorry, it was a tough morning.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "spill the tea",
+    "aliases": [
+      "spill tea",
+      "what's the tea",
+      "spilling the tea"
+    ],
+    "meaning": "share the juicy news or gossip",
+    "example": "Spill the tea: who ate the last waffle? The syrup trail leads straight to the dog.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "squad goals",
+    "aliases": [
+      "#squadgoals",
+      "squad",
+      "goals"
+    ],
+    "meaning": "a group of friends so awesome everyone wants to copy them",
+    "example": "Four grandmas in matching tracksuits power-walking the mall? Total squad goals.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "staycation",
+    "aliases": [
+      "stay-cation"
+    ],
+    "meaning": "a vacation spent relaxing at home",
+    "example": "Our staycation included a blanket fort, popcorn, and zero airport lines.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "struggle bus",
+    "aliases": [
+      "on the struggle bus",
+      "riding the struggle bus"
+    ],
+    "meaning": "having a hard time getting things done",
+    "example": "It's Monday and I'm riding the struggle bus; my coffee hasn't even kicked in.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "swag",
+    "aliases": [
+      "swagger",
+      "swaggy"
+    ],
+    "meaning": "cool confidence and style",
+    "example": "That toddler in tiny sunglasses and rain boots has more swag than the whole mall.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "the struggle is real",
+    "aliases": [
+      "struggle is real",
+      "#thestruggleisreal"
+    ],
+    "meaning": "life is tough right now, usually about something tiny",
+    "example": "My ice cream is too frozen to scoop. The struggle is real.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "throwing shade",
+    "aliases": [
+      "throw shade",
+      "shade",
+      "threw shade"
+    ],
+    "meaning": "making a sneaky, indirect dig at someone or something",
+    "example": "My cat threw shade at my cooking by trying to bury her dinner.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "totes",
+    "aliases": [
+      "totes mcgotes",
+      "totes mcgoats"
+    ],
+    "meaning": "totally; absolutely",
+    "example": "Want to share these fries? Totes. Wait, you meant your fries? Even more totes.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "whatevs",
+    "aliases": [
+      "whatev"
+    ],
+    "meaning": "whatever; I'm not too bothered either way",
+    "example": "Lost the board game again? Whatevs, I still won the snack bowl.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "yas",
+    "aliases": [
+      "yass",
+      "yasss",
+      "yaaas",
+      "yas queen"
+    ],
+    "meaning": "an extra-excited yes",
+    "example": "Free cookie samples at the store? Yas! I'm doing three laps.",
+    "category": "millennial",
+    "region": "US"
+  },
+  {
+    "term": "allow it",
+    "aliases": [
+      "allow",
+      "low it"
+    ],
+    "meaning": "stop it, drop it, or don't bother",
+    "example": "You want to sing the whole song again? Allow it, my ears need a break.",
+    "category": "regional",
+    "region": "UK-London"
+  },
+  {
+    "term": "apples and pears",
+    "aliases": [
+      "apples"
+    ],
+    "meaning": "stairs, in Cockney rhyming slang",
+    "example": "The cat raced up the apples and pears the second it heard the treat bag.",
+    "category": "regional",
+    "region": "UK-Cockney"
+  },
+  {
+    "term": "arvo",
+    "aliases": [],
+    "meaning": "the afternoon",
+    "example": "Fancy a game of backyard cricket this arvo?",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "bach",
+    "aliases": [],
+    "meaning": "a small holiday home, often near the beach",
+    "example": "We spent summer at the bach, eating fish and chips and counting stars.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "bagsy",
+    "aliases": [
+      "bags",
+      "bagsie"
+    ],
+    "meaning": "to claim something first, like calling dibs",
+    "example": "Bagsy the front seat! I called it before we even found the car keys.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "bakkie",
+    "aliases": [],
+    "meaning": "a pickup truck",
+    "example": "We piled the camping gear into the bakkie and still forgot the tent pegs.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "baltic",
+    "aliases": [],
+    "meaning": "freezing cold",
+    "example": "It's baltic out there; even the snowman asked to come inside.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "barbie",
+    "aliases": [],
+    "meaning": "a barbecue",
+    "example": "Dad's at the barbie, guarding the sausages like they're pirate treasure.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "bare",
+    "aliases": [],
+    "meaning": "lots of, or very",
+    "example": "There were bare people queuing for the new doughnut shop at sunrise.",
+    "category": "regional",
+    "region": "UK-London"
+  },
+  {
+    "term": "bikkie",
+    "aliases": [
+      "bickie",
+      "bikkies"
+    ],
+    "meaning": "a biscuit or cookie",
+    "example": "The dog sat perfectly still for ten seconds and earned himself a bikkie.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "bless your heart",
+    "aliases": [],
+    "meaning": "oh, you poor dear (sometimes sweet, sometimes sly)",
+    "example": "You baked cookies for the whole street? Well, bless your heart!",
+    "category": "regional",
+    "region": "US-South"
+  },
+  {
+    "term": "blether",
+    "aliases": [
+      "blather",
+      "bletherin"
+    ],
+    "meaning": "a long chat, or to chatter away",
+    "example": "Gran and her pal had such a long blether that the tea went cold twice.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "bloke",
+    "aliases": [],
+    "meaning": "a man or guy",
+    "example": "A cheerful bloke at the park taught my gran three yo-yo tricks in five minutes.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "bob's your uncle",
+    "aliases": [
+      "and bob's your uncle",
+      "bobs your uncle"
+    ],
+    "meaning": "and there you go, it's done, simple as that",
+    "example": "Fold it twice, add a tail, and Bob's your uncle: one paper dragon.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "braai",
+    "aliases": [],
+    "meaning": "a barbecue, or to cook food over an open fire",
+    "example": "Every family braai has one uncle who insists he's the fire expert.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "braw",
+    "aliases": [],
+    "meaning": "fine, lovely, or excellent",
+    "example": "What a braw day for a picnic; the sun even showed up on time.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "brekkie",
+    "aliases": [
+      "brekky"
+    ],
+    "meaning": "breakfast",
+    "example": "Brekkie today is pancakes, and the dog has already placed his order.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "brolly",
+    "aliases": [],
+    "meaning": "an umbrella",
+    "example": "Always pack a brolly in Britain; the sky changes its mind every ten minutes.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "bruv",
+    "aliases": [
+      "bro",
+      "brev"
+    ],
+    "meaning": "brother; a friendly way to address a mate",
+    "example": "Bruv, why is your goldfish wearing tiny sunglasses?",
+    "category": "regional",
+    "region": "UK-London"
+  },
+  {
+    "term": "bubbler",
+    "aliases": [],
+    "meaning": "a drinking fountain",
+    "example": "After recess, the line for the bubbler is longer than the line for the slide.",
+    "category": "regional",
+    "region": "US-Wisconsin"
+  },
+  {
+    "term": "bucketing down",
+    "aliases": [
+      "bucketing"
+    ],
+    "meaning": "raining extremely hard",
+    "example": "It's bucketing down, so the ducks are thrilled and the picnic has moved indoors.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "buggy",
+    "aliases": [],
+    "meaning": "a shopping cart",
+    "example": "My little brother rode in the buggy like a king in a royal chariot.",
+    "category": "regional",
+    "region": "US-South"
+  },
+  {
+    "term": "bunny hug",
+    "aliases": [],
+    "meaning": "a hooded sweatshirt",
+    "example": "It's chilly, so grab your bunny hug before we go sledding.",
+    "category": "regional",
+    "region": "Canada-Saskatchewan"
+  },
+  {
+    "term": "cent per cent",
+    "aliases": [],
+    "meaning": "completely; one hundred percent",
+    "example": "I'm cent per cent sure the dog ate my homework this time.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "cheeky",
+    "aliases": [],
+    "meaning": "playfully bold or a little bit naughty, in a charming way",
+    "example": "My dog gave me a cheeky wink, then ran off with my sock.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "cheers",
+    "aliases": [],
+    "meaning": "thanks, or sometimes goodbye",
+    "example": "Cheers for holding the door; my arms are full of pizza boxes.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "chilly bin",
+    "aliases": [],
+    "meaning": "a portable cooler box",
+    "example": "The chilly bin is full of ice blocks, so suddenly everyone wants to be my friend.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "chinwag",
+    "aliases": [],
+    "meaning": "a long, cheerful chat",
+    "example": "Grandad popped out for milk and came back two hours later after a chinwag with the postman.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "chippy",
+    "aliases": [],
+    "meaning": "a fish and chip shop",
+    "example": "Friday night means a trip to the chippy and a big debate about mushy peas.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "chockers",
+    "aliases": [
+      "chock-a-block",
+      "chockablock"
+    ],
+    "meaning": "packed completely full",
+    "example": "The beach was chockers, so we built our sandcastle on a tiny patch of sand.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "choice",
+    "aliases": [],
+    "meaning": "excellent or awesome",
+    "example": "That hokey pokey ice cream was choice; I'd like a second scoop, please.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "chuffed",
+    "aliases": [
+      "chuffed to bits"
+    ],
+    "meaning": "really pleased and proud",
+    "example": "I was chuffed to bits when my sourdough rose higher than my expectations.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "chur",
+    "aliases": [
+      "chur bro",
+      "chur chur"
+    ],
+    "meaning": "thanks, or awesome",
+    "example": "You saved me a seat on the bus? Chur, bro!",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "coorie",
+    "aliases": [
+      "coorie in",
+      "coorie doon"
+    ],
+    "meaning": "to snuggle up and get cosy",
+    "example": "Let's coorie in under the blanket and watch raindrops race down the window.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "cousin brother",
+    "aliases": [
+      "cousin sister"
+    ],
+    "meaning": "a male cousin",
+    "example": "My cousin brother taught me to fly a kite, then got it stuck in a tree.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "crabbit",
+    "aliases": [],
+    "meaning": "grumpy or bad-tempered",
+    "example": "I'm always a bit crabbit until I've had my porridge.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "craic",
+    "aliases": [
+      "crack",
+      "what's the craic",
+      "the craic"
+    ],
+    "meaning": "fun, banter, and a good time; also news",
+    "example": "The talent show was great craic, especially the dog that howled along to the piano.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "cream crackered",
+    "aliases": [],
+    "meaning": "very tired; rhyming slang for knackered",
+    "example": "After painting the whole fence, I was cream crackered and slightly purple.",
+    "category": "regional",
+    "region": "UK-Cockney"
+  },
+  {
+    "term": "creps",
+    "aliases": [],
+    "meaning": "trainers or sneakers",
+    "example": "He cleans his creps with a toothbrush, but thankfully not his own.",
+    "category": "regional",
+    "region": "UK-London"
+  },
+  {
+    "term": "crook",
+    "aliases": [],
+    "meaning": "sick or unwell",
+    "example": "I'm feeling a bit crook, so I'll be sneezing from the couch today.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "cuppa",
+    "aliases": [],
+    "meaning": "a cup of tea, or sometimes coffee",
+    "example": "Every problem shrinks a little after a cuppa and a biscuit, scientifically speaking, probably.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "cwtch",
+    "aliases": [
+      "cwtsh"
+    ],
+    "meaning": "a warm, cosy cuddle",
+    "example": "Come here for a cwtch; you look like you need one more than the cat does.",
+    "category": "regional",
+    "region": "Wales"
+  },
+  {
+    "term": "da kine",
+    "aliases": [
+      "dakine"
+    ],
+    "meaning": "a stand-in word for any thing, like 'whatchamacallit'",
+    "example": "Pass me da kine, the sunscreen thing, before I turn into a lobster.",
+    "category": "regional",
+    "region": "US-Hawaii"
+  },
+  {
+    "term": "dairy",
+    "aliases": [],
+    "meaning": "a small corner shop",
+    "example": "I popped to the dairy for milk and came back with lollies and no milk.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "deadly",
+    "aliases": [],
+    "meaning": "brilliant or excellent",
+    "example": "The new playground is deadly; there's a slide that loops round three times.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "do the needful",
+    "aliases": [],
+    "meaning": "please take whatever action is required",
+    "example": "The cat knocked the plant over again; kindly do the needful with the broom.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "dodgy",
+    "aliases": [],
+    "meaning": "a bit suspicious, unreliable, or not quite right",
+    "example": "The cafe wifi is so dodgy my emails are basically arriving by carrier pigeon.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "doona",
+    "aliases": [],
+    "meaning": "a duvet or thick quilt",
+    "example": "I'm not leaving my doona until the sun has warmed up the kitchen.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "double-double",
+    "aliases": [
+      "double double"
+    ],
+    "meaning": "a coffee with two portions each of cream and sugar",
+    "example": "Grab me a double-double; I'm shovelling the driveway for the fifth time today.",
+    "category": "regional",
+    "region": "Canada"
+  },
+  {
+    "term": "dreich",
+    "aliases": [],
+    "meaning": "dull, grey, and drizzly, when talking about weather",
+    "example": "It was so dreich outside that even the ducks stayed in bed.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "eh",
+    "aliases": [],
+    "meaning": "a little word tacked on to ask for agreement, like 'right?'",
+    "example": "Perfect day for skating, eh?",
+    "category": "regional",
+    "region": "Canada"
+  },
+  {
+    "term": "eina",
+    "aliases": [],
+    "meaning": "ouch!",
+    "example": "Eina! I stepped on a toy block in the dark again.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "eish",
+    "aliases": [],
+    "meaning": "an exclamation of surprise, frustration, or dismay",
+    "example": "Eish, I forgot my lunch, but luckily my friend packed extra sandwiches.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "ends",
+    "aliases": [],
+    "meaning": "your local neighbourhood",
+    "example": "Everyone in my ends knows the ice cream van plays its tune slightly off-key.",
+    "category": "regional",
+    "region": "UK-London"
+  },
+  {
+    "term": "esky",
+    "aliases": [],
+    "meaning": "a portable cooler box",
+    "example": "Pack the esky with sandwiches, fruit, and enough ice for a penguin.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "ey up",
+    "aliases": [
+      "eh up",
+      "ay up"
+    ],
+    "meaning": "hello, or sometimes watch out",
+    "example": "Ey up! Is that a duck in a bobble hat, or am I dreaming?",
+    "category": "regional",
+    "region": "UK-Yorkshire"
+  },
+  {
+    "term": "faff",
+    "aliases": [
+      "faffing",
+      "faffing about",
+      "faff around"
+    ],
+    "meaning": "to waste time fussing over small, unimportant things",
+    "example": "Stop faffing about with the map; the beach is the giant sandy thing right there.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "fair dinkum",
+    "aliases": [
+      "dinkum"
+    ],
+    "meaning": "truly honest and real; no joke",
+    "example": "Fair dinkum, a kangaroo just hopped past the school gate!",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "fair play",
+    "aliases": [
+      "fair play to you",
+      "fair play to ya"
+    ],
+    "meaning": "well done, good for you",
+    "example": "You ran the whole race in a dinosaur costume? Fair play to you!",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "fixin' to",
+    "aliases": [
+      "fixing to",
+      "fixin to"
+    ],
+    "meaning": "about to; getting ready to do something",
+    "example": "I'm fixin' to make lemonade, so somebody find me some lemons.",
+    "category": "regional",
+    "region": "US-South"
+  },
+  {
+    "term": "full of beans",
+    "aliases": [],
+    "meaning": "bursting with energy and enthusiasm",
+    "example": "The puppy was full of beans and did seven laps of the garden before breakfast.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "g'day",
+    "aliases": [
+      "gday",
+      "g'day mate"
+    ],
+    "meaning": "hello",
+    "example": "G'day! Want to help me name the kookaburra that lives in our garden?",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "gaff",
+    "aliases": [],
+    "meaning": "someone's home",
+    "example": "Come round to my gaff for board games and the world's biggest bowl of popcorn.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "gas",
+    "aliases": [],
+    "meaning": "really funny",
+    "example": "Your uncle's card tricks were gas; every card ended up in his sock.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "gassed",
+    "aliases": [],
+    "meaning": "really excited or hyped up",
+    "example": "I'm gassed for the weekend; I've planned three naps and a pancake party.",
+    "category": "regional",
+    "region": "UK-London"
+  },
+  {
+    "term": "give it a lash",
+    "aliases": [],
+    "meaning": "to have a go at something",
+    "example": "I've never baked bread before, but sure, I'll give it a lash.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "give'r",
+    "aliases": [
+      "give 'er",
+      "giver"
+    ],
+    "meaning": "to go all out with maximum effort",
+    "example": "The hill is steep, but just give'r and the sled will fly!",
+    "category": "regional",
+    "region": "Canada"
+  },
+  {
+    "term": "giving out",
+    "aliases": [
+      "give out",
+      "giving out to"
+    ],
+    "meaning": "scolding someone or complaining loudly",
+    "example": "Mam was giving out because I tracked mud through the whole kitchen.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "gobsmacked",
+    "aliases": [],
+    "meaning": "so amazed or surprised you can barely speak",
+    "example": "I was gobsmacked when the cat actually came when I called her.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "gong show",
+    "aliases": [],
+    "meaning": "a chaotic, disorganised mess",
+    "example": "Bath time with three muddy puppies was a total gong show.",
+    "category": "regional",
+    "region": "Canada"
+  },
+  {
+    "term": "good on ya",
+    "aliases": [
+      "good onya",
+      "good on you"
+    ],
+    "meaning": "well done, good for you",
+    "example": "You walked the neighbour's dog in the rain? Good on ya!",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "grand",
+    "aliases": [],
+    "meaning": "fine, okay, or all good",
+    "example": "How's the pancake? Grand, thanks, though I flipped one onto the ceiling.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "gutted",
+    "aliases": [],
+    "meaning": "really disappointed or let down",
+    "example": "I was gutted when the last cookie in the jar turned out to be a raisin one.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "have a butcher's",
+    "aliases": [
+      "butcher's hook",
+      "take a butcher's"
+    ],
+    "meaning": "to take a look; Cockney rhyming slang from butcher's hook",
+    "example": "Have a butcher's at this snail; he's faster than my internet.",
+    "category": "regional",
+    "region": "UK-Cockney"
+  },
+  {
+    "term": "haver",
+    "aliases": [
+      "havering",
+      "havers"
+    ],
+    "meaning": "to talk nonsense or ramble on",
+    "example": "Stop havering about dragons and help me find the car keys.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "heaps",
+    "aliases": [
+      "heaps good"
+    ],
+    "meaning": "lots, or very",
+    "example": "Thanks heaps for the birthday card; I'm still finding glitter everywhere.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "hissy fit",
+    "aliases": [
+      "hissy",
+      "pitch a fit"
+    ],
+    "meaning": "a big, dramatic tantrum",
+    "example": "The cat threw a hissy fit when we moved her favourite cardboard box.",
+    "category": "regional",
+    "region": "US-South"
+  },
+  {
+    "term": "hooped",
+    "aliases": [],
+    "meaning": "stuck or in trouble, with no easy fix",
+    "example": "The car's stuck in the snowbank, so we're hooped until Dad finds the shovel.",
+    "category": "regional",
+    "region": "Canada-West"
+  },
+  {
+    "term": "hooroo",
+    "aliases": [],
+    "meaning": "goodbye",
+    "example": "Hooroo, see you at the beach tomorrow, and bring the good boogie board!",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "howay",
+    "aliases": [
+      "haway",
+      "howay man"
+    ],
+    "meaning": "come on!",
+    "example": "Howay, the bus won't wait while you pick a hat!",
+    "category": "regional",
+    "region": "UK-Geordie"
+  },
+  {
+    "term": "howzit",
+    "aliases": [
+      "howzit bru"
+    ],
+    "meaning": "hello, how's it going?",
+    "example": "Howzit! Want to come help me teach the dog to fetch?",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "innit",
+    "aliases": [],
+    "meaning": "isn't it; tagged on to agree or check you agree",
+    "example": "This weather's perfect for a picnic, innit?",
+    "category": "regional",
+    "region": "UK-London"
+  },
+  {
+    "term": "jammy",
+    "aliases": [],
+    "meaning": "really lucky, sometimes more than you deserve",
+    "example": "You found a tenner in your old coat? You jammy thing!",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "jandals",
+    "aliases": [
+      "jandal"
+    ],
+    "meaning": "flip-flops",
+    "example": "One jandal floated off down the river, so I hopped all the way home.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "jawn",
+    "aliases": [],
+    "meaning": "a catch-all word for a thing, place, or event",
+    "example": "Pass me that jawn with the sprinkles on top.",
+    "category": "regional",
+    "region": "US-Philadelphia"
+  },
+  {
+    "term": "jol",
+    "aliases": [
+      "jolling"
+    ],
+    "meaning": "a party or a fun time; also to have fun",
+    "example": "Your birthday jol was amazing; the jumping castle was a genius idea.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "jugaad",
+    "aliases": [],
+    "meaning": "a clever, makeshift fix using whatever is handy",
+    "example": "The fan broke, so we did some jugaad with cardboard and rubber bands.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "just now",
+    "aliases": [],
+    "meaning": "at some point later, not straight away",
+    "example": "I'll clean my room just now, which might mean sometime next week.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "keek",
+    "aliases": [],
+    "meaning": "a quick, sneaky peek",
+    "example": "I took a wee keek at my present, and it's definitely shaped like a bike.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "keener",
+    "aliases": [],
+    "meaning": "a super eager, enthusiastic person",
+    "example": "The class keener had her hand up before the teacher even finished the question.",
+    "category": "regional",
+    "region": "Canada"
+  },
+  {
+    "term": "ken",
+    "aliases": [],
+    "meaning": "to know",
+    "example": "Do you ken where the remote went? The dog looks very suspicious.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "kerfuffle",
+    "aliases": [
+      "carfuffle"
+    ],
+    "meaning": "a noisy fuss or commotion",
+    "example": "There was a huge kerfuffle when two pigeons both claimed the same chip.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "kindly adjust",
+    "aliases": [],
+    "meaning": "please be patient and make a little room or allowance",
+    "example": "Four of us on one bench? Kindly adjust, everybody wants the shade.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "kip",
+    "aliases": [],
+    "meaning": "a short sleep or nap",
+    "example": "I'll grab a quick kip so I don't snore through the best part of the movie.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "knackered",
+    "aliases": [],
+    "meaning": "completely worn out and exhausted",
+    "example": "One round of hide-and-seek with my nephew and I was knackered for a week.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "lagniappe",
+    "aliases": [],
+    "meaning": "a little free bonus or extra",
+    "example": "The baker tossed in an extra cookie as lagniappe, and my day was made.",
+    "category": "regional",
+    "region": "US-Louisiana"
+  },
+  {
+    "term": "lekker",
+    "aliases": [],
+    "meaning": "great, nice, or delicious",
+    "example": "That braai was lekker; even the vegetables tasted like a party.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "loonie",
+    "aliases": [],
+    "meaning": "a Canadian one-dollar coin",
+    "example": "I found a loonie in the couch, so tonight we feast on one gumball.",
+    "category": "regional",
+    "region": "Canada"
+  },
+  {
+    "term": "lush",
+    "aliases": [],
+    "meaning": "lovely, delicious, or really nice",
+    "example": "This cake is lush; may I have another slice, or possibly the whole cake?",
+    "category": "regional",
+    "region": "Wales"
+  },
+  {
+    "term": "made up",
+    "aliases": [],
+    "meaning": "really pleased and happy",
+    "example": "I'm made up you came to my party; there's a cake with your name on it.",
+    "category": "regional",
+    "region": "UK-Liverpool"
+  },
+  {
+    "term": "mandem",
+    "aliases": [],
+    "meaning": "a group of male friends",
+    "example": "The mandem turned up at the park with four footballs and zero goalposts.",
+    "category": "regional",
+    "region": "UK-London"
+  },
+  {
+    "term": "mardy",
+    "aliases": [],
+    "meaning": "grumpy, moody, or sulky",
+    "example": "My little brother gets mardy whenever someone else gets the blue cup.",
+    "category": "regional",
+    "region": "UK-Northern England"
+  },
+  {
+    "term": "mate",
+    "aliases": [],
+    "meaning": "a friend, or a friendly way to address anyone",
+    "example": "Thanks, mate, you rescued my kite from that tree like an absolute hero.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "mention not",
+    "aliases": [],
+    "meaning": "you're welcome",
+    "example": "Thanks for the extra laddoo! Mention not, there are twenty more in the kitchen.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "might could",
+    "aliases": [],
+    "meaning": "might be able to",
+    "example": "I might could help you build that treehouse after lunch.",
+    "category": "regional",
+    "region": "US-South"
+  },
+  {
+    "term": "mozzie",
+    "aliases": [
+      "mozzy",
+      "mozzies"
+    ],
+    "meaning": "a mosquito",
+    "example": "One mozzie in the tent kept the whole family up playing whack-a-bug.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "mug up",
+    "aliases": [
+      "mugging up",
+      "mugging"
+    ],
+    "meaning": "to memorise lots of material by cramming, especially for exams",
+    "example": "I mugged up the times tables so hard I now count my peas in twelves.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "naff",
+    "aliases": [],
+    "meaning": "uncool, tacky, or a bit cheesy",
+    "example": "Dad's flashing reindeer jumper is totally naff, and he wears it with enormous pride.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "nek minnit",
+    "aliases": [
+      "next minute"
+    ],
+    "meaning": "suddenly, the very next moment",
+    "example": "I put my ice cream down for one second. Nek minnit, a seagull.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "nesh",
+    "aliases": [],
+    "meaning": "easily feeling the cold",
+    "example": "I'm so nesh I wear a scarf in July and mittens in May.",
+    "category": "regional",
+    "region": "UK-Northern England"
+  },
+  {
+    "term": "no worries",
+    "aliases": [
+      "no dramas",
+      "no drama"
+    ],
+    "meaning": "it's fine, no problem at all",
+    "example": "Spilled juice on the couch? No worries, the dog volunteered to help.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "now in a minute",
+    "aliases": [],
+    "meaning": "sometime later, possibly soon, possibly not",
+    "example": "I'll tidy my room now in a minute, right after this snack and a nap.",
+    "category": "regional",
+    "region": "Wales"
+  },
+  {
+    "term": "now now",
+    "aliases": [],
+    "meaning": "fairly soon, in a little while",
+    "example": "I'll be there now now, right after I find my other shoe.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "nowt",
+    "aliases": [],
+    "meaning": "nothing",
+    "example": "There's nowt better than warm toast on a frosty morning.",
+    "category": "regional",
+    "region": "UK-Northern England"
+  },
+  {
+    "term": "ope",
+    "aliases": [],
+    "meaning": "a tiny 'oops' said when bumping into or slipping past someone",
+    "example": "Ope, just gonna squeeze past ya to grab the potato salad.",
+    "category": "regional",
+    "region": "US-Midwest"
+  },
+  {
+    "term": "our kid",
+    "aliases": [],
+    "meaning": "my brother or sister",
+    "example": "Our kid ate all the cereal and put the empty box back in the cupboard.",
+    "category": "regional",
+    "region": "UK-Northern England"
+  },
+  {
+    "term": "out of station",
+    "aliases": [],
+    "meaning": "away from your home town for a while",
+    "example": "Dad's out of station this week, so Mum is the undisputed TV-remote boss.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "over yonder",
+    "aliases": [
+      "yonder"
+    ],
+    "meaning": "over there, a little way off",
+    "example": "See that big oak over yonder? That's where the squirrels hold their meetings.",
+    "category": "regional",
+    "region": "US-South"
+  },
+  {
+    "term": "pau",
+    "aliases": [],
+    "meaning": "finished or done",
+    "example": "Homework is pau, so let's go to the beach!",
+    "category": "regional",
+    "region": "US-Hawaii"
+  },
+  {
+    "term": "pear-shaped",
+    "aliases": [
+      "go pear-shaped",
+      "gone pear-shaped",
+      "pear shaped"
+    ],
+    "meaning": "gone badly wrong",
+    "example": "The cake looked perfect until things went pear-shaped and it became a pancake.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "peckish",
+    "aliases": [],
+    "meaning": "a little bit hungry",
+    "example": "I'm only slightly peckish, so just three sandwiches and a pie for me, please.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "peelie-wally",
+    "aliases": [
+      "peely-wally",
+      "peelie wally"
+    ],
+    "meaning": "looking pale and a bit poorly",
+    "example": "After the spinning teacup ride, I looked a bit peelie-wally.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "porkies",
+    "aliases": [
+      "porky pies",
+      "telling porkies"
+    ],
+    "meaning": "fibs or small lies; Cockney rhyming slang from pork pies",
+    "example": "Telling porkies about the last biscuit? The crumbs on your jumper say otherwise.",
+    "category": "regional",
+    "region": "UK-Cockney"
+  },
+  {
+    "term": "prepone",
+    "aliases": [
+      "preponed"
+    ],
+    "meaning": "to move something to an earlier time",
+    "example": "They preponed the picnic, so now we're eating samosas at sunrise.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "press",
+    "aliases": [],
+    "meaning": "a cupboard",
+    "example": "The biscuits are in the press, hidden behind the vegetables where nobody looks.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "quid",
+    "aliases": [],
+    "meaning": "a British pound in money",
+    "example": "I spent five quid on a hat shaped like a duck, and I regret nothing.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "ripper",
+    "aliases": [],
+    "meaning": "excellent, or something fantastic",
+    "example": "That was a ripper of a catch; the ball nearly landed in the next suburb.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "robot",
+    "aliases": [],
+    "meaning": "a traffic light",
+    "example": "Turn left at the second robot, then look for the house with the giant gnome.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "rock up",
+    "aliases": [
+      "rocked up"
+    ],
+    "meaning": "to turn up or arrive, usually casually",
+    "example": "He rocked up to the party in a dinosaur costume, three hours early.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "runners",
+    "aliases": [],
+    "meaning": "sneakers or running shoes",
+    "example": "Lace up your runners; we're racing to the ice cream shop.",
+    "category": "regional",
+    "region": "Canada"
+  },
+  {
+    "term": "schlep",
+    "aliases": [
+      "shlep",
+      "schlepping"
+    ],
+    "meaning": "to lug something heavy, or make a tiring trip",
+    "example": "We schlepped the beach umbrella all the way there, and it was cloudy.",
+    "category": "regional",
+    "region": "US-New York"
+  },
+  {
+    "term": "scunnered",
+    "aliases": [],
+    "meaning": "fed up or sick of something",
+    "example": "I'm scunnered with this jigsaw; the last four sky pieces all look identical.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "servo",
+    "aliases": [],
+    "meaning": "a petrol station",
+    "example": "We stopped at the servo for fuel and somehow left with three bags of snacks.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "shame",
+    "aliases": [
+      "ag shame"
+    ],
+    "meaning": "aww, how sweet, or a sound of sympathy",
+    "example": "Ag shame, look at that little puppy in a raincoat!",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "sharp sharp",
+    "aliases": [
+      "sharp"
+    ],
+    "meaning": "okay, cool, or see you later",
+    "example": "See you at practice tomorrow? Sharp sharp!",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "she'll be right",
+    "aliases": [
+      "she'll be apples",
+      "she'll be right mate"
+    ],
+    "meaning": "don't worry, everything will turn out fine",
+    "example": "The tent's a bit wonky, but she'll be right once we add a few more pegs.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "shoogle",
+    "aliases": [
+      "shoogly"
+    ],
+    "meaning": "to shake, jiggle, or wobble",
+    "example": "Give the jar a good shoogle and the last jelly bean might fall out.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "skint",
+    "aliases": [],
+    "meaning": "completely out of money",
+    "example": "I'm so skint my wallet echoes when I open it.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "snag",
+    "aliases": [],
+    "meaning": "a sausage",
+    "example": "I'll have two snags in bread with tomato sauce, please, and one for the dog.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "sorted",
+    "aliases": [],
+    "meaning": "arranged, fixed, or all taken care of",
+    "example": "Snacks, blankets, and a movie are ready, so tonight is sorted.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "spit the dummy",
+    "aliases": [],
+    "meaning": "to throw a tantrum or lose your cool",
+    "example": "He spat the dummy when the wifi dropped right before the final level.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "spookasem",
+    "aliases": [],
+    "meaning": "candy floss (literally 'ghost breath')",
+    "example": "I ate so much spookasem at the fair that I nearly floated home.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "spot on",
+    "aliases": [
+      "bang on"
+    ],
+    "meaning": "exactly right",
+    "example": "Your guess about the surprise party was spot on, so please act surprised anyway.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "squiz",
+    "aliases": [
+      "have a squiz",
+      "take a squiz"
+    ],
+    "meaning": "a quick look",
+    "example": "Have a squiz at this shell; I think a crab is renting it.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "sucking diesel",
+    "aliases": [
+      "suckin' diesel",
+      "now you're sucking diesel"
+    ],
+    "meaning": "making great progress; things are going well",
+    "example": "Once we found all the corner pieces, we were sucking diesel on that puzzle.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "sunnies",
+    "aliases": [],
+    "meaning": "sunglasses",
+    "example": "Don't forget your sunnies; the beach is basically a giant mirror today.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "sweet as",
+    "aliases": [],
+    "meaning": "great, all good, no problem",
+    "example": "Meet at the beach at three? Sweet as.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "taking the mickey",
+    "aliases": [
+      "take the mickey",
+      "taking the mick",
+      "mickey-taking"
+    ],
+    "meaning": "teasing someone in a joking way",
+    "example": "My sister was taking the mickey out of my dancing until she tripped over her own shoelace.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "takkies",
+    "aliases": [
+      "tekkies",
+      "tackies"
+    ],
+    "meaning": "sneakers or trainers",
+    "example": "My new takkies are so white I'm scared to walk on the grass.",
+    "category": "regional",
+    "region": "South Africa"
+  },
+  {
+    "term": "throw a wobbly",
+    "aliases": [
+      "throw a wobbler",
+      "chuck a wobbly"
+    ],
+    "meaning": "to have a sudden tantrum",
+    "example": "My toddler threw a wobbly because his banana snapped in half.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "tickety-boo",
+    "aliases": [
+      "tickety boo"
+    ],
+    "meaning": "fine and running smoothly",
+    "example": "The tent is up, the marshmallows are toasted, and everything is tickety-boo.",
+    "category": "regional",
+    "region": "UK"
+  },
+  {
+    "term": "tidy",
+    "aliases": [],
+    "meaning": "good, great, or impressive",
+    "example": "That's a tidy kite you've built; it flew higher than the seagulls.",
+    "category": "regional",
+    "region": "Wales"
+  },
+  {
+    "term": "tiki tour",
+    "aliases": [],
+    "meaning": "a long, roundabout trip, often the scenic way",
+    "example": "Dad took us on a tiki tour, which means he got lost but called it sightseeing.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "timepass",
+    "aliases": [
+      "time pass"
+    ],
+    "meaning": "something you do just to kill time",
+    "example": "Watching ants carry crumbs was excellent timepass while we waited for the bus.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "togs",
+    "aliases": [],
+    "meaning": "swimwear",
+    "example": "Grab your togs, the lake is calling and the ducks are waiting.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "toonie",
+    "aliases": [
+      "twoonie"
+    ],
+    "meaning": "a Canadian two-dollar coin",
+    "example": "Two toonies and I'm officially rich enough for hot chocolate.",
+    "category": "regional",
+    "region": "Canada"
+  },
+  {
+    "term": "toque",
+    "aliases": [
+      "tuque",
+      "touque"
+    ],
+    "meaning": "a knitted winter hat",
+    "example": "My toque has a pom-pom so big it has its own weather forecast.",
+    "category": "regional",
+    "region": "Canada"
+  },
+  {
+    "term": "tucker",
+    "aliases": [],
+    "meaning": "food",
+    "example": "Pack plenty of tucker; the bushwalk is long and my stomach is loud.",
+    "category": "regional",
+    "region": "Australia"
+  },
+  {
+    "term": "uff da",
+    "aliases": [
+      "uffda",
+      "oofda"
+    ],
+    "meaning": "an exclamation of surprise, tiredness, or dismay",
+    "example": "Uff da, that snowbank is taller than the car!",
+    "category": "regional",
+    "region": "US-Minnesota"
+  },
+  {
+    "term": "up to ninety",
+    "aliases": [
+      "up to 90"
+    ],
+    "meaning": "extremely busy, stressed, or worked up",
+    "example": "I'm up to ninety getting ready for the party, and the balloons keep escaping.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "wagwan",
+    "aliases": [
+      "wah gwan",
+      "wagwaan"
+    ],
+    "meaning": "what's going on; a casual hello",
+    "example": "Wagwan, everyone! Who's ready for the slowest bike race in history?",
+    "category": "regional",
+    "region": "UK-London"
+  },
+  {
+    "term": "wee",
+    "aliases": [],
+    "meaning": "small or little",
+    "example": "Can I have a wee bit of cake? Okay, maybe a slightly bigger wee bit.",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "what is your good name",
+    "aliases": [
+      "your good name",
+      "what's your good name"
+    ],
+    "meaning": "a polite way of asking someone's name",
+    "example": "What is your good name? Mine is Priya, and this is my extremely fluffy cat.",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "what's the story",
+    "aliases": [
+      "what's the story?",
+      "whats the story",
+      "story"
+    ],
+    "meaning": "what's up, or how are things?",
+    "example": "What's the story? Did you finish building that blanket fort yet?",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "wheesht",
+    "aliases": [
+      "haud yer wheesht",
+      "whisht"
+    ],
+    "meaning": "hush, be quiet",
+    "example": "Wheesht, everyone, the hedgehog is just about to come out!",
+    "category": "regional",
+    "region": "Scotland"
+  },
+  {
+    "term": "wop-wops",
+    "aliases": [
+      "the wop-wops",
+      "wopwops"
+    ],
+    "meaning": "a remote place in the middle of nowhere",
+    "example": "Our holiday spot is out in the wop-wops, where the sheep outnumber the people.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "y'all",
+    "aliases": [
+      "yall",
+      "ya'll",
+      "all y'all"
+    ],
+    "meaning": "you all; a friendly way to talk to a group",
+    "example": "Y'all better grab a plate before Grandma's biscuits disappear.",
+    "category": "regional",
+    "region": "US-South"
+  },
+  {
+    "term": "yaar",
+    "aliases": [
+      "yar"
+    ],
+    "meaning": "buddy, mate, or friend",
+    "example": "Come on, yaar, one more round of cricket before dinner!",
+    "category": "regional",
+    "region": "India"
+  },
+  {
+    "term": "yeah nah",
+    "aliases": [
+      "yeah, nah"
+    ],
+    "meaning": "a polite, friendly way of saying no",
+    "example": "Swim in the freezing lake? Yeah nah, I'll mind the towels.",
+    "category": "regional",
+    "region": "New Zealand"
+  },
+  {
+    "term": "yinz",
+    "aliases": [
+      "yunz",
+      "you'uns"
+    ],
+    "meaning": "you all, Pittsburgh's version of y'all",
+    "example": "Are yinz coming to the game, or just coming for the snacks?",
+    "category": "regional",
+    "region": "US-Pittsburgh"
+  },
+  {
+    "term": "yoke",
+    "aliases": [],
+    "meaning": "a thing, especially one whose name escapes you",
+    "example": "Pass me that yoke for opening jars, the twisty one.",
+    "category": "regional",
+    "region": "Ireland"
+  },
+  {
+    "term": "you betcha",
+    "aliases": [],
+    "meaning": "you bet; absolutely",
+    "example": "Want another slice of pie? You betcha!",
+    "category": "regional",
+    "region": "US-Minnesota"
+  },
+  {
+    "term": "10-4, good buddy",
+    "aliases": [
+      "10-4",
+      "ten-four",
+      "10 4 good buddy"
+    ],
+    "meaning": "message received, got it",
+    "example": "'Grab milk on the way home.' '10-4, good buddy. Chocolate milk, coming right up.'",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "all that and a bag of chips",
+    "aliases": [
+      "all that",
+      "all that and a bag of chips and a soda"
+    ],
+    "meaning": "super great, even better than great",
+    "example": "My grandma's lasagna is all that and a bag of chips, plus a side of garlic bread.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "ankle biter",
+    "aliases": [
+      "ankle-biter",
+      "ankle biters"
+    ],
+    "meaning": "a little kid or toddler, said affectionately",
+    "example": "The ankle biters raided the cookie jar and left a crumb trail any detective could follow.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "as if",
+    "aliases": [
+      "as if!"
+    ],
+    "meaning": "no way, that's never going to happen",
+    "example": "Me, skip dessert? As if! I'm already eyeing the chocolate cake.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "baloney",
+    "aliases": [
+      "boloney",
+      "what a load of baloney"
+    ],
+    "meaning": "nonsense, silly talk that isn't true",
+    "example": "The dog claims he didn't eat the sandwich. Baloney, there's mustard on his nose.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "big cheese",
+    "aliases": [
+      "the big cheese"
+    ],
+    "meaning": "the most important person in charge",
+    "example": "My five-year-old declared herself the big cheese of the snack drawer.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "bling",
+    "aliases": [
+      "bling-bling",
+      "blinged out"
+    ],
+    "meaning": "flashy, sparkly jewelry or accessories",
+    "example": "My grandma's bedazzled reading glasses have more bling than a disco ball.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "bodacious",
+    "aliases": [
+      "totally bodacious"
+    ],
+    "meaning": "bold, remarkable, and awesome",
+    "example": "That's a bodacious sandcastle, complete with a moat and a crab security guard.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "bogus",
+    "aliases": [
+      "totally bogus"
+    ],
+    "meaning": "fake, unfair, or not cool",
+    "example": "The vending machine took my dollar and gave me nothing. Totally bogus.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "boogie",
+    "aliases": [
+      "boogie down",
+      "get down and boogie"
+    ],
+    "meaning": "to dance, or to get moving",
+    "example": "When the vacuum cleaner hums, Grandma starts to boogie. It's her favorite beat.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "booyah",
+    "aliases": [
+      "boo-yah",
+      "booya",
+      "boo-ya"
+    ],
+    "meaning": "a triumphant shout after a win",
+    "example": "Landed the paper ball in the trash can from across the room. Booyah!",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "boss",
+    "aliases": [
+      "totally boss"
+    ],
+    "meaning": "excellent, really cool",
+    "example": "Your new skateboard with flame stickers is boss. Can it outrun my scooter?",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "bounce",
+    "aliases": [
+      "let's bounce",
+      "bounced"
+    ],
+    "meaning": "to leave a place",
+    "example": "This party's out of snacks, so let's bounce to the kitchen and make more.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "bread",
+    "aliases": [],
+    "meaning": "money",
+    "example": "I wanted the fancy bakery's bread, but I didn't have enough bread.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "buggin'",
+    "aliases": [
+      "buggin' out",
+      "you're buggin'"
+    ],
+    "meaning": "freaking out or acting a little wild",
+    "example": "You think I'd forget your birthday? You're buggin'. I've had the cake ready since Tuesday.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "bummer",
+    "aliases": [
+      "what a bummer",
+      "bummed",
+      "bummed out"
+    ],
+    "meaning": "a disappointing letdown",
+    "example": "The picnic got rained out. Bummer, but indoor picnics have way fewer ants.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "catch you on the flip side",
+    "aliases": [
+      "on the flip side",
+      "see you on the flip side"
+    ],
+    "meaning": "see you later",
+    "example": "Gotta go feed my goldfish. Catch you on the flip side!",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "cooking with gas",
+    "aliases": [
+      "now we're cooking with gas",
+      "cookin' with gas"
+    ],
+    "meaning": "doing something really well and making great progress",
+    "example": "The puzzle's edges are done and the corners found. Now we're cooking with gas!",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "cool beans",
+    "aliases": [],
+    "meaning": "great, sounds good",
+    "example": "'We're having tacos tonight.' 'Cool beans! Beans included, I hope.'",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "cool cat",
+    "aliases": [
+      "hep cat",
+      "hepcat",
+      "cat"
+    ],
+    "meaning": "a stylish, relaxed, in-the-know person",
+    "example": "The new librarian plays jazz on her lunch break. Total cool cat.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "cool your jets",
+    "aliases": [
+      "cool it"
+    ],
+    "meaning": "calm down and slow down",
+    "example": "Cool your jets, buddy. The birthday cake isn't going anywhere. Probably.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "copacetic",
+    "aliases": [
+      "copasetic",
+      "copesetic"
+    ],
+    "meaning": "totally fine and in good order",
+    "example": "Homework's done, snacks are stocked, the dog's asleep. Everything is copacetic.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "couch potato",
+    "aliases": [
+      "couch potatoes"
+    ],
+    "meaning": "someone who loves lounging on the couch watching TV",
+    "example": "My cat is a professional couch potato; she has her own cushion and blanket.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "cowabunga",
+    "aliases": [
+      "cowabunga, dude"
+    ],
+    "meaning": "a gleeful shout of excitement",
+    "example": "Cowabunga! The pool is open and I'm doing my famous belly flop.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "crib",
+    "aliases": [
+      "my crib"
+    ],
+    "meaning": "your home",
+    "example": "Welcome to my crib, where the couch is comfy and the snacks are plentiful.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "cup of joe",
+    "aliases": [
+      "joe",
+      "a cup of joe"
+    ],
+    "meaning": "a cup of coffee",
+    "example": "Mom doesn't talk until she's had her first cup of joe. We communicate by waving.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "cut a rug",
+    "aliases": [
+      "cutting a rug",
+      "cut the rug"
+    ],
+    "meaning": "to dance with energy and style",
+    "example": "Grandpa cut a rug at the wedding so well that the DJ asked him for lessons.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "da bomb",
+    "aliases": [
+      "the bomb",
+      "the bomb dot com",
+      "bomb diggity",
+      "the bomb-diggity"
+    ],
+    "meaning": "the absolute best, amazing",
+    "example": "These homemade waffles are da bomb. I'd write them a thank-you card.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "daddy-o",
+    "aliases": [
+      "daddio",
+      "daddy o"
+    ],
+    "meaning": "a jazzy, friendly way to address a guy",
+    "example": "Hey daddy-o, nice sunglasses. Are those for the sun or for all your fans?",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "dig it",
+    "aliases": [
+      "can you dig it",
+      "dig",
+      "I dig it"
+    ],
+    "meaning": "to understand or really like something",
+    "example": "Pineapple on a pancake? I dig it, and so does my sweet tooth.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "don't go there",
+    "aliases": [
+      "don't even go there"
+    ],
+    "meaning": "please don't bring that topic up",
+    "example": "Who broke the lamp? Don't even go there. The cat has a very solid alibi.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "don't have a cow",
+    "aliases": [
+      "don't have a cow, man",
+      "have a cow"
+    ],
+    "meaning": "don't freak out or overreact",
+    "example": "Don't have a cow, Mom. I only tracked in a little mud. Okay, it's a lot.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "doozy",
+    "aliases": [
+      "doozie",
+      "a real doozy"
+    ],
+    "meaning": "something remarkable, unusual, or extreme",
+    "example": "That snowstorm was a doozy; our snowman ended up taller than the mailbox.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "dough",
+    "aliases": [
+      "the dough"
+    ],
+    "meaning": "money",
+    "example": "I saved my allowance and now I've got enough dough for one very fancy cookie.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "duck soup",
+    "aliases": [],
+    "meaning": "something very easy to do",
+    "example": "Fixing the leaky faucet was duck soup, said Dad, while standing in a puddle.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "dude",
+    "aliases": [
+      "dudette",
+      "duuude",
+      "whoa, dude"
+    ],
+    "meaning": "a casual word for a buddy, or a shout of surprise",
+    "example": "Dude! You found my missing sock in the freezer? How did it even get there?",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "dy-no-mite",
+    "aliases": [
+      "dynomite",
+      "dyn-o-mite"
+    ],
+    "meaning": "fantastic, explosively awesome",
+    "example": "Grandma won the chili cook-off? Dy-no-mite! She's been polishing that trophy all week.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "eager beaver",
+    "aliases": [],
+    "meaning": "someone extra keen and hardworking",
+    "example": "The new kid volunteered for every job, even mopping. What an eager beaver.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "far out",
+    "aliases": [
+      "far-out",
+      "far out, man"
+    ],
+    "meaning": "amazing and wonderfully unusual",
+    "example": "You built a rocket out of cardboard? Far out. Call me when it reaches the moon.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "flip your lid",
+    "aliases": [
+      "flip one's lid",
+      "flipped her lid",
+      "flip your wig"
+    ],
+    "meaning": "to suddenly get very upset or very excited",
+    "example": "Grandma flipped her lid when she won bingo and tossed her markers like confetti.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "fly",
+    "aliases": [
+      "so fly",
+      "lookin' fly"
+    ],
+    "meaning": "stylish and good-looking",
+    "example": "Grandpa looks so fly in his new hat that the pigeons follow him for style tips.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "fresh",
+    "aliases": [
+      "funky fresh",
+      "so fresh"
+    ],
+    "meaning": "stylish, new, and cool",
+    "example": "Those new sneakers are fresh. Try not to step in any puddles today.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "gag me with a spoon",
+    "aliases": [
+      "gag me"
+    ],
+    "meaning": "that's totally gross or annoying",
+    "example": "Broccoli in my birthday cake? Gag me with a spoon. A frosting spoon, please.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "get jiggy",
+    "aliases": [
+      "gettin' jiggy with it",
+      "getting jiggy",
+      "jiggy"
+    ],
+    "meaning": "to dance and have fun without holding back",
+    "example": "When the wedding band played the oldies, even the ring bearer got jiggy with it.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "gimme some skin",
+    "aliases": [
+      "give me some skin",
+      "slap me some skin"
+    ],
+    "meaning": "give me a high five or a friendly hand slap",
+    "example": "You aced the spelling test? Gimme some skin! Up high, down low, too slow!",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "gnarly",
+    "aliases": [
+      "gnarley",
+      "totally gnarly"
+    ],
+    "meaning": "intense and impressive, or sometimes really gross",
+    "example": "That wave was gnarly, dude. So was the sandwich I forgot in the car for a week.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "grody",
+    "aliases": [
+      "grody to the max",
+      "groady",
+      "grodie"
+    ],
+    "meaning": "really gross or disgusting",
+    "example": "My brother's sock pile is grody to the max. I think it's growing its own ecosystem.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "groovy",
+    "aliases": [
+      "groovin'",
+      "feelin' groovy"
+    ],
+    "meaning": "cool, fun, and pleasing",
+    "example": "Grandpa's lava lamp collection is so groovy it deserves its own disco ball.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "hang loose",
+    "aliases": [],
+    "meaning": "relax and take it easy",
+    "example": "Hang loose, buddy. The waves will be here tomorrow, and so will the snacks.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "hang ten",
+    "aliases": [
+      "hanging ten"
+    ],
+    "meaning": "surfing with all ten toes over the front of the board",
+    "example": "Grandpa claims he could hang ten back in the day. Now he hangs ten in flip-flops.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "heebie-jeebies",
+    "aliases": [
+      "heebie jeebies",
+      "the heebie-jeebies"
+    ],
+    "meaning": "a nervous, creepy-crawly feeling",
+    "example": "The squeaky attic stairs give me the heebie-jeebies, so I send the cat up first.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "homie",
+    "aliases": [
+      "homeboy",
+      "homegirl",
+      "home skillet",
+      "homeslice"
+    ],
+    "meaning": "a close friend, someone from your crew",
+    "example": "My homie saved me the last slice of pizza. True friendship has cheese on it.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "humdinger",
+    "aliases": [
+      "a real humdinger"
+    ],
+    "meaning": "something or someone truly remarkable",
+    "example": "Aunt Rose's surprise party was a humdinger, complete with a kazoo band.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "hunky-dory",
+    "aliases": [
+      "hunky dory"
+    ],
+    "meaning": "just fine, all good",
+    "example": "The cake fell over, but we called it pudding, and everything's hunky-dory.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "in the doghouse",
+    "aliases": [
+      "in the dog house"
+    ],
+    "meaning": "in trouble with someone",
+    "example": "Dad's in the doghouse for eating the birthday cake frosting before the party.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "jalopy",
+    "aliases": [
+      "jalopies"
+    ],
+    "meaning": "an old, rattly, beat-up car",
+    "example": "Our jalopy sounds like a popcorn machine, but it still gets us to the beach.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "jump the shark",
+    "aliases": [
+      "jumped the shark",
+      "jumping the shark"
+    ],
+    "meaning": "when a show or idea gets so silly it loses its charm",
+    "example": "The cooking show jumped the shark when the chef started baking on a unicycle.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "keep on truckin'",
+    "aliases": [
+      "keep on trucking"
+    ],
+    "meaning": "keep going steadily, no matter what",
+    "example": "The hill is steep and my bike squeaks, but I keep on truckin' toward the ice cream stand.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "kickin' it",
+    "aliases": [
+      "kicking it",
+      "kick it"
+    ],
+    "meaning": "hanging out and relaxing",
+    "example": "We're just kickin' it on the porch, waving at dogs and counting clouds.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "know your onions",
+    "aliases": [
+      "know one's onions",
+      "knows her onions",
+      "knows his onions"
+    ],
+    "meaning": "to really know a subject well",
+    "example": "Ask Maria about dinosaurs; she knows her onions, and her pterodactyls too.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "made in the shade",
+    "aliases": [
+      "got it made in the shade",
+      "have it made in the shade"
+    ],
+    "meaning": "set up for easy success, with nothing to worry about",
+    "example": "Chores done early and a dollar found in my coat? I've got it made in the shade.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "malarkey",
+    "aliases": [
+      "malarky"
+    ],
+    "meaning": "foolish or wildly exaggerated talk",
+    "example": "My uncle says he once caught a fish the size of a canoe. Pure malarkey.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "most excellent",
+    "aliases": [
+      "excellent",
+      "most triumphant",
+      "excellent, dude"
+    ],
+    "meaning": "the very best, absolutely great",
+    "example": "We finished the jigsaw puzzle with zero missing pieces. Most excellent, dude!",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "my bad",
+    "aliases": [
+      "my b"
+    ],
+    "meaning": "my mistake, sorry",
+    "example": "Oops, I ate your fortune cookie. My bad. The fortune said you'd get a new one.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "neato",
+    "aliases": [
+      "neat-o",
+      "neato burrito"
+    ],
+    "meaning": "cool or impressive",
+    "example": "Your science-fair volcano actually erupted? Neato! The ceiling looks very festive now.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "nifty",
+    "aliases": [],
+    "meaning": "clever, handy, or neat",
+    "example": "This nifty gadget peels apples, slices them, and makes me feel like an inventor.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "no duh",
+    "aliases": [
+      "no doy",
+      "duh",
+      "well, duh"
+    ],
+    "meaning": "that's obvious, of course",
+    "example": "'Is the ice cream cold?' 'No duh. That's kind of its whole thing.'",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "no sweat",
+    "aliases": [],
+    "meaning": "no problem, easy to do",
+    "example": "Help you carry groceries? No sweat. Just don't hand me the eggs.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "no-brainer",
+    "aliases": [
+      "no brainer"
+    ],
+    "meaning": "a choice so easy you barely have to think",
+    "example": "Free cupcake or no cupcake? That's a no-brainer.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "not!",
+    "aliases": [
+      "not"
+    ],
+    "meaning": "just kidding, I actually mean the opposite",
+    "example": "I love folding laundry on Saturdays. Not! I'd rather juggle spaghetti.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "oh snap",
+    "aliases": [
+      "oh snap!",
+      "snap"
+    ],
+    "meaning": "wow, that's surprising, or what a great comeback",
+    "example": "Grandma just beat the whole family at video games. Oh snap, she's unstoppable!",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "outta sight",
+    "aliases": [
+      "out of sight",
+      "outasight"
+    ],
+    "meaning": "so amazing it's beyond description",
+    "example": "Those sparkly roller skates are outta sight. Just don't skate out of sight.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "pad",
+    "aliases": [
+      "my pad",
+      "crash pad"
+    ],
+    "meaning": "your home or apartment",
+    "example": "Come by my pad later; I've got board games and an alarming amount of popcorn.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "party on",
+    "aliases": [
+      "party on, dude"
+    ],
+    "meaning": "keep having fun",
+    "example": "The pizza's here and the music's on. Party on, everybody!",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "party pooper",
+    "aliases": [
+      "party-pooper"
+    ],
+    "meaning": "someone who spoils the fun",
+    "example": "Don't be a party pooper, Uncle Joe. Put on the party hat. Yes, the pointy one.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "peace out",
+    "aliases": [
+      "peace",
+      "peace out, yo"
+    ],
+    "meaning": "goodbye, see you later",
+    "example": "Homework's done and the sun is out. Peace out, I'm going skateboarding!",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "peachy keen",
+    "aliases": [
+      "peachy",
+      "peachy-keen"
+    ],
+    "meaning": "wonderful; everything is great",
+    "example": "New bike, sunny day, and a pocket full of gumdrops. Life is peachy keen.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "pig out",
+    "aliases": [
+      "pigging out",
+      "pigged out"
+    ],
+    "meaning": "to happily eat a whole lot of food",
+    "example": "We pigged out on pancakes until the syrup bottle asked for a break.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "props",
+    "aliases": [
+      "mad props",
+      "big props"
+    ],
+    "meaning": "credit and respect for a job well done",
+    "example": "Props to Dad for grilling burgers in the rain while wearing an umbrella hat.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "psych",
+    "aliases": [
+      "psyche",
+      "sike",
+      "psych!"
+    ],
+    "meaning": "just kidding, I fooled you",
+    "example": "I finished all the ice cream. Psych! I saved you the biggest scoop.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "rad",
+    "aliases": [
+      "radical",
+      "totally rad"
+    ],
+    "meaning": "really cool, excellent",
+    "example": "You built a skate ramp out of old doors? That's rad, and a little terrifying.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "raise the roof",
+    "aliases": [
+      "raising the roof"
+    ],
+    "meaning": "to celebrate loudly, often while pushing your palms toward the ceiling",
+    "example": "Our team scored a goal and Grandpa raised the roof right there in the bleachers.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "right on",
+    "aliases": [
+      "right on, man"
+    ],
+    "meaning": "yes, exactly, I agree",
+    "example": "'Let's get pizza for dinner.' 'Right on! Extra cheese, extra happiness.'",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "rock on",
+    "aliases": [
+      "rock on, dude"
+    ],
+    "meaning": "keep being awesome, keep up the great work",
+    "example": "You learned three chords on the ukulele? Rock on, superstar!",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "see you later, alligator",
+    "aliases": [
+      "see ya later alligator",
+      "later gator",
+      "after while, crocodile",
+      "in a while, crocodile"
+    ],
+    "meaning": "goodbye, said in a fun rhyming way",
+    "example": "See you later, alligator! Tell the crocodile he still owes me a sandwich.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "smart cookie",
+    "aliases": [
+      "one smart cookie"
+    ],
+    "meaning": "a clever, quick-thinking person",
+    "example": "She fixed the jammed printer with a paperclip. One smart cookie, that one.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "snazzy",
+    "aliases": [
+      "snazzier"
+    ],
+    "meaning": "flashy and stylish in an eye-catching way",
+    "example": "Those snazzy rainbow shoelaces are doing all the work for that outfit.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "space cadet",
+    "aliases": [
+      "space case"
+    ],
+    "meaning": "someone dreamy and a bit absent-minded",
+    "example": "I put the milk in the cupboard and the cereal in the fridge. Total space cadet morning.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "spiffy",
+    "aliases": [
+      "spiffed up"
+    ],
+    "meaning": "neat, stylish, and smart-looking",
+    "example": "Dad wore a spiffy bow tie to the barbecue and only dripped ketchup on it twice.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "square",
+    "aliases": [
+      "squaresville",
+      "don't be a square"
+    ],
+    "meaning": "someone stuck in old-fashioned, unadventurous ways",
+    "example": "Don't be a square, Dad. Try the purple ice cream. It's just grape.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "stoked",
+    "aliases": [
+      "so stoked",
+      "stoked about"
+    ],
+    "meaning": "super excited and thrilled",
+    "example": "I'm stoked for the field trip; rumor says the aquarium has a juggling sea otter.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "swanky",
+    "aliases": [
+      "swank"
+    ],
+    "meaning": "fancy and luxurious",
+    "example": "The hotel was so swanky that even the towels were folded into swans.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "swell",
+    "aliases": [
+      "just swell"
+    ],
+    "meaning": "great or wonderful",
+    "example": "Thanks for the lemonade, neighbor. You're a swell egg and an even better squeezer.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "take a chill pill",
+    "aliases": [
+      "chill pill",
+      "take a chill pill, dude"
+    ],
+    "meaning": "calm down and relax",
+    "example": "Take a chill pill, it's just a tiny spider. It's probably more scared of you.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "talk to the hand",
+    "aliases": [
+      "talk to the hand, 'cause the face ain't listening"
+    ],
+    "meaning": "I'm not listening to you anymore",
+    "example": "Asking me to eat my peas again? Talk to the hand. The hand also hates peas.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "the 411",
+    "aliases": [
+      "what's the 411",
+      "411"
+    ],
+    "meaning": "the latest information or scoop",
+    "example": "What's the 411 on lunch? I heard rumors of grilled cheese.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "the bee's knees",
+    "aliases": [
+      "bee's knees",
+      "the bees knees"
+    ],
+    "meaning": "something truly excellent, the very best",
+    "example": "Grandpa thinks his homemade pancakes are the bee's knees, and honestly, he's right.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "the cat's pajamas",
+    "aliases": [
+      "cat's pajamas",
+      "cat's pyjamas",
+      "the cat's meow",
+      "the cat's whiskers"
+    ],
+    "meaning": "something wonderful and top-notch",
+    "example": "This new reading lamp is the cat's pajamas. My cat agrees and naps under it.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "the real McCoy",
+    "aliases": [
+      "real McCoy"
+    ],
+    "meaning": "the genuine article, not a copy",
+    "example": "This isn't store-bought pie; it's the real McCoy, straight from Grandma's oven.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "threads",
+    "aliases": [
+      "new threads"
+    ],
+    "meaning": "clothes, an outfit",
+    "example": "Check out my new threads: tie-dye shirt, striped socks, and pure confidence.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "to the max",
+    "aliases": [
+      "to the maximum"
+    ],
+    "meaning": "to the highest possible level",
+    "example": "We decorated for the holidays to the max. The neighbors can see us from space.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "totally",
+    "aliases": [
+      "like, totally",
+      "fer sure",
+      "totally, dude"
+    ],
+    "meaning": "absolutely, completely, yes indeed",
+    "example": "Do I want another slice of pizza? Like, totally. Fer sure.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "true dat",
+    "aliases": [
+      "true that"
+    ],
+    "meaning": "that's so true, I agree",
+    "example": "'Breakfast for dinner is the best idea ever.' 'True dat. Pass the syrup.'",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "tubular",
+    "aliases": [
+      "totally tubular"
+    ],
+    "meaning": "awesome, totally excellent",
+    "example": "These neon leg warmers are tubular. Do they help me dance better? Absolutely not.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "veg out",
+    "aliases": [
+      "vegging out",
+      "veg"
+    ],
+    "meaning": "to relax and do nothing at all",
+    "example": "After a long week, I plan to veg out like a houseplant with a TV remote.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "wannabe",
+    "aliases": [
+      "wanna-be",
+      "wanna be"
+    ],
+    "meaning": "someone trying hard to be like someone else",
+    "example": "I'm a chef wannabe: fancy apron, tall hat, and cereal for dinner.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "what a drag",
+    "aliases": [
+      "drag",
+      "such a drag"
+    ],
+    "meaning": "how boring or annoying",
+    "example": "Rain all Saturday? What a drag. Good thing board games don't mind the weather.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "what's buzzin', cousin?",
+    "aliases": [
+      "what's buzzin cousin",
+      "what's buzzing, cousin"
+    ],
+    "meaning": "what's up, how's it going (said playfully)",
+    "example": "'What's buzzin', cousin?' asked the beekeeper. His bees thought it was hilarious.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "whatever",
+    "aliases": [
+      "what-ever",
+      "whatever!"
+    ],
+    "meaning": "I don't care much, so let's drop it",
+    "example": "'Your shirt's on backward.' 'Whatever! It's a bold new fashion statement.'",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "wicked",
+    "aliases": [
+      "wicked awesome",
+      "wicked cool",
+      "wicked good",
+      "wicked smart"
+    ],
+    "meaning": "very or really, especially in New England",
+    "example": "This clam chowder is wicked good. I may need a second spoon.",
+    "category": "retro",
+    "region": "US"
+  },
+  {
+    "term": "word up",
+    "aliases": [
+      "word",
+      "word up, yo"
+    ],
+    "meaning": "I agree, that's the truth",
+    "example": "'Saturday cartoons and cereal are the best.' 'Word up!'",
+    "category": "retro",
+    "region": "US"
+  }
+]
